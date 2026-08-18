@@ -1,0 +1,25 @@
+ad_name: 4.16 | Tech Callout
+video_id: 1579168560415440
+status: ACTIVE
+duration_seconds: 80.0
+source_door: page-token
+transcribed: 2026-08-18
+---
+[   0.0s] If you're in software, if you're a data scientist, if you're a project manager, if you're an engineer,
+[   4.3s] and you are pulling a high W2, you need to hear this. You have optimized your career,
+[   8.6s] you're earning good money, you've negotiated good comp, okay? You probably have stock options and
+[  12.3s] everything else, but you are paying a ton in taxes. Your largest bill every single year is not
+[  17.4s] your mortgage, it's not your car, it's not any of that. It is likely your taxes, you're paying
+[  21.0s] 35, 40, 45 percent of every dollar you make to the IRS and it doesn't have to be that way.
+[  26.1s] You spent years mastering your craft, but no one has ever sat you down and told you,
+[  29.6s] here's how to keep more of every dollar that you're earning. You were always told to max out
+[  33.7s] your 401k, maybe do a back door Roth IRA, get as much stock options as you can, but when you do that,
+[  39.0s] you are paying a ton in taxes. The founders you're working for, the VCs, the executive,
+[  43.3s] all of them are paying like 5 to 10 percent in taxes while you're absolutely getting hosed.
+[  47.9s] Here's the thing, the IRS literally wrote the playbook telling you how to do this,
+[  51.0s] it's the tax code, okay? If you understand how to invest the way the IRS actually wants you to,
+[  56.2s] as a W-2 wage earner, you can mitigate almost all of your income. I have helped thousands of people
+[  61.4s] do exactly this. My personal effective tax rate has been under 10 percent for years and I help
+[  65.7s] other people accomplish the same thing. Doesn't matter if they're business owners, W-2,
+[  69.0s] tech, healthcare, it does not matter, you can do it. If that sounds like something that you need,
+[  74.0s] click the link down below.
