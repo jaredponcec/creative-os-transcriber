@@ -1,12 +1,10 @@
-"""Amplifi Creative OS — nightly ad transcriber.
+"""Amplifi Creative OS — nightly ad transcriber (v2, layered source lookup).
 
-Pulls every video ad from the Meta ad account, downloads each video's source
-file, transcribes it locally with faster-whisper, and writes one text file per
-ad into transcripts/. Ads that already have a transcript are skipped, so the
-backlog drains across nightly runs (MAX_PER_RUN per night, actives first).
+Pulls every video ad from the Meta ad account, resolves each video's playable
+file through three doors (ad-account video library, direct video read, page
+access token), transcribes with faster-whisper, writes transcripts/<ad>.txt.
 
-Runs inside GitHub Actions. Requires env: META_TOKEN (system-user token with
-ads_read + pages_read_engagement). Optional env: AD_ACCOUNT, MAX_PER_RUN.
+Env: META_TOKEN (required), AD_ACCOUNT, MAX_PER_RUN.
 """
 
 import json
@@ -21,13 +19,12 @@ TOKEN = os.environ["META_TOKEN"]
 ACCOUNT = os.environ.get("AD_ACCOUNT", "act_1505073096814143")
 MAX_PER_RUN = int(os.environ.get("MAX_PER_RUN", "25"))
 
-# Same scope rule as the Notion morning sync: Wealth Rewritten purchase engine.
 EXCLUDE = ["Lead Form", "FHL", "Refi", "Shop Rates", "Home Equity",
            "Book a Call", "Webinar Vid"]
 
 
-def graph_get(path, **params):
-    params["access_token"] = TOKEN
+def graph_get(path, token=None, **params):
+    params["access_token"] = token or TOKEN
     url = f"{API}/{path}?{urllib.parse.urlencode(params)}"
     with urllib.request.urlopen(url, timeout=60) as r:
         return json.load(r)
@@ -38,22 +35,72 @@ def fetch_url(url):
         return json.load(r)
 
 
-def all_ads():
-    """Every ad in the account with its creative's video_id (paginated)."""
-    ads = []
-    data = graph_get(f"{ACCOUNT}/ads",
-                     fields="name,effective_status,creative{video_id}",
-                     limit=200)
+def paginate(first):
+    data = first
     while True:
-        ads.extend(data.get("data", []))
+        for row in data.get("data", []):
+            yield row
         nxt = data.get("paging", {}).get("next")
         if not nxt:
-            return ads
+            return
         data = fetch_url(nxt)
 
 
+def all_ads():
+    first = graph_get(
+        f"{ACCOUNT}/ads",
+        fields="name,effective_status,creative{video_id,effective_object_story_id}",
+        limit=200)
+    return list(paginate(first))
+
+
+def advideo_sources():
+    """Door 1: the ad account's own video library exposes source URLs."""
+    out = {}
+    try:
+        first = graph_get(f"{ACCOUNT}/advideos", fields="id,source", limit=100)
+        for v in paginate(first):
+            if v.get("source"):
+                out[v["id"]] = v["source"]
+    except Exception as exc:
+        print(f"note: advideos library unavailable ({exc})")
+    return out
+
+
+def page_tokens():
+    """Door 3: per-page access tokens (needs pages_show_list on the token)."""
+    out = {}
+    try:
+        data = graph_get("me/accounts", fields="id,access_token", limit=100)
+        for p in data.get("data", []):
+            if p.get("access_token"):
+                out[p["id"]] = p["access_token"]
+    except Exception as exc:
+        print(f"note: no page tokens available ({exc})")
+    return out
+
+
+def resolve_source(video_id, page_id, adv_map, ptokens):
+    if video_id in adv_map:
+        return adv_map[video_id], "advideos"
+    try:  # Door 2: direct read with the user token
+        src = graph_get(video_id, fields="source").get("source")
+        if src:
+            return src, "direct"
+    except Exception:
+        pass
+    if page_id and page_id in ptokens:  # Door 3
+        try:
+            src = graph_get(video_id, token=ptokens[page_id],
+                            fields="source").get("source")
+            if src:
+                return src, "page-token"
+        except Exception:
+            pass
+    return None, None
+
+
 def safe(name):
-    """Ad name -> filesystem-safe filename (original name kept in file header)."""
     return re.sub(r"[^A-Za-z0-9._-]+", "_", name).strip("_")[:120]
 
 
@@ -66,19 +113,25 @@ def main():
         name = ad.get("name", "")
         if not name or any(x in name for x in EXCLUDE):
             continue
-        video_id = (ad.get("creative") or {}).get("video_id")
+        creative = ad.get("creative") or {}
+        video_id = creative.get("video_id")
         if not video_id:
-            continue  # static / carousel — no audio to transcribe
+            continue
+        story = creative.get("effective_object_story_id") or ""
+        page_id = story.split("_")[0] if "_" in story else None
         status = ad.get("effective_status", "")
-        # Copies share a name; keep one entry, prefer the ACTIVE instance.
         if name not in candidates or status == "ACTIVE":
-            candidates[name] = (video_id, status)
+            candidates[name] = (video_id, page_id, status)
 
-    todo = [(n, v, s) for n, (v, s) in candidates.items()
+    todo = [(n, v, p, s) for n, (v, p, s) in candidates.items()
             if f"{safe(n)}.txt" not in have]
-    todo.sort(key=lambda t: (t[2] != "ACTIVE", t[0]))  # actives first
-    print(f"{len(candidates)} video ads in scope; "
-          f"{len(todo)} lack transcripts; doing up to {MAX_PER_RUN} this run.")
+    todo.sort(key=lambda t: (t[3] != "ACTIVE", t[0]))
+
+    adv_map = advideo_sources()
+    ptokens = page_tokens()
+    print(f"{len(candidates)} video ads in scope; {len(todo)} lack transcripts; "
+          f"doing up to {MAX_PER_RUN}. "
+          f"[library sources: {len(adv_map)} | page tokens: {len(ptokens)}]")
 
     if not todo:
         return
@@ -86,11 +139,12 @@ def main():
     from faster_whisper import WhisperModel
     model = WhisperModel("small", device="cpu", compute_type="int8")
 
-    ok = errs = 0
-    for name, video_id, status in todo[:MAX_PER_RUN]:
+    ok = skipped = errs = 0
+    for name, video_id, page_id, status in todo[:MAX_PER_RUN]:
         try:
-            src = graph_get(video_id, fields="source").get("source")
+            src, door = resolve_source(video_id, page_id, adv_map, ptokens)
             if not src:
+                skipped += 1
                 print(f"SKIP no-source: {name}")
                 continue
             urllib.request.urlretrieve(src, "video.mp4")
@@ -100,16 +154,17 @@ def main():
                       f"video_id: {video_id}\n"
                       f"status: {status}\n"
                       f"duration_seconds: {info.duration:.1f}\n"
+                      f"source_door: {door}\n"
                       f"transcribed: {time.strftime('%Y-%m-%d')}\n---\n")
             with open(f"transcripts/{safe(name)}.txt", "w") as f:
                 f.write(header + "\n".join(lines) + "\n")
             ok += 1
-            print(f"OK {info.duration:5.0f}s: {name}")
-        except Exception as exc:  # keep the batch moving
+            print(f"OK ({door}) {info.duration:5.0f}s: {name}")
+        except Exception as exc:
             errs += 1
             print(f"ERROR: {name}: {exc}")
 
-    print(f"Done. {ok} transcribed, {errs} errors.")
+    print(f"Done. {ok} transcribed, {skipped} no-source, {errs} errors.")
 
 
 if __name__ == "__main__":
