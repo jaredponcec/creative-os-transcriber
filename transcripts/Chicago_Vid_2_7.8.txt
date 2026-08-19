@@ -1,0 +1,27 @@
+ad_name: Chicago | Vid 2 | 7.8
+video_id: 993725003444931
+status: ACTIVE
+duration_seconds: 80.2
+source_door: page-token
+transcribed: 2026-08-19
+---
+[   0.0s] Chicago, if you're making over $200,000 a year and feel like you're not getting ahead,
+[   3.8s] you're not crazy. You've been fed a broken blueprint that honestly just doesn't work.
+[   8.6s] Get the good job, make the good money, invest in a 401k, maybe some real estate, and you'll be
+[  12.9s] able to retire the way that you want to. The internet changed the way we invest and not enough
+[  17.3s] people are talking about it. What used to work, that blueprint, no longer works anymore because
+[  22.1s] the internet democratized financial markets. What used to be reserved for the billionaires
+[  26.5s] is now accessible to the everyday person. You can invest in venture capital,
+[  30.5s] private equity, real estate, tax mitigation. You have just not been taught how to do it.
+[  34.5s] On top of that, you can get your effective tax rate down to 5 or 10 percent. We always
+[  37.9s] hear about these billionaires doing it, but you can do it too. The problem is no one has sat
+[  42.0s] you down and taught you how to do it, and that is why I'm coming to your city to do exactly
+[  46.6s] that. We are going to hold a one day event where we are going to deep dive all of this.
+[  50.4s] We're going to talk through tax mitigation, entity structuring, how do you set up your life
+[  54.6s] to be able to optimize to pay the least amount of taxes that you can. All legally,
+[  58.2s] but pay what you owe, not what you don't know. And then take the money we're saving and go invest it.
+[  62.7s] Both in the stock market, but also private equity, venture capital, large scale real
+[  66.4s] estate so you can begin to optimize your returns. We intentionally keep these rooms
+[  70.8s] really small. I only want like 100 people in the room so we can have a real conversation
+[  74.6s] about how to build generational wealth. So if you want to be in that room,
+[  77.9s] click the link down below and I'd love to see you there.

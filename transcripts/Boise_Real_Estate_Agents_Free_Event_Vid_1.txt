@@ -1,0 +1,24 @@
+ad_name: Boise Real Estate Agents Free Event | Vid 1
+video_id: 1156966093232800
+status: ACTIVE
+duration_seconds: 70.0
+source_door: page-token
+transcribed: 2026-08-19
+---
+[   0.0s] If you live here in the Boise area and are a real estate agent, I'm holding a small gathering
+[   4.2s] where we're going to go over private market investing tax mitigation as a real estate professional.
+[   8.7s] I made my money in real estate like all of you, but I created wealth through understanding the
+[  13.0s] IRS code and how to truly mitigate taxes. How do I get my effective tax rate under 5% and then
+[  18.1s] taking that money I saved and going into private markets? Stuff like private equity venture capital
+[  22.2s] and large scale real estate. No one has taught you how to really mitigate your taxes. I paid
+[  26.2s] over a 35% effective tax rate my first couple years inside of real estate. The last couple years
+[  31.0s] I've paid under 5%. We live here in a boomy economy, but no one has taught you how to get
+[  35.8s] access through investing to all this stuff. How do you actually get access to good venture
+[  39.8s] capital deals? How do you invest in private equity and how do you get access to good real
+[  43.3s] estate deals? Not your single family home, but 100, 200, 300 unit apartment complexes.
+[  47.8s] We're going to hold a two hour presentation on November 6th where we're going to deep dive all
+[  51.2s] of this. We're going to go over how a real estate agent can mitigate their taxes slash 50% of
+[  55.4s] your tax bill next year and how you can get access to private market deals. I travel the
+[  59.1s] country charging you to give this exact same presentation, but we decided to give it 100%
+[  63.1s] free to real estate agents here in the Boise area. So if you want to reserve your ticket
+[  66.3s] because there is going to be limited spots, you can click the link down below and I can't wait to see you there.
