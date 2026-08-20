@@ -1,0 +1,35 @@
+ad_name: 12.16 | Run & Gun V1
+video_id: 1241989887748025
+status: CAMPAIGN_PAUSED
+duration_seconds: 75.4
+source_door: page-token
+transcribed: 2026-08-20
+---
+[   0.0s] You think getting into your first private market deal and slashing your taxes is hard?
+[   3.7s] This is my business partner, Bryce, and he'd probably say different.
+[   6.3s] Bryce, how hard was it to get into your first private market deal?
+[   9.6s] Not very hard at all.
+[  10.6s] And how much did you save from that investment?
+[  13.1s] Probably save over 60% of my taxable income last year.
+[  16.0s] Did you have to be a credit investor?
+[  17.5s] Did you have to have a million-dollar network to be able to do it?
+[  19.7s] Uh, no. It was pretty simple.
+[  21.0s] How long did it take you to go, like, beginning to end to get through the entire process?
+[  25.5s] I want to say, like, three to four weeks, something like that.
+[  28.2s] So you jumped in, learned about the investment,
+[  30.7s] and, like, three to four weeks wrote that much off your taxes.
+[  33.3s] Yeah, pretty much.
+[  34.2s] If my team would've moved faster, how long do you think it would've actually taken you?
+[  37.5s] Maybe one to two weeks.
+[  39.0s] Here's the thing. Most people think these private market deals are for billionaires
+[  42.3s] and that these tax techniques are for the Ultra League, and that's not the case.
+[  45.7s] Bryce didn't need to be a billionaire. He didn't need some special credentials.
+[  48.8s] He just needed someone to show him how and make the introduction.
+[  51.9s] That's exactly why I'm going to hold a 90-minute training called the Wealth Rewritten,
+[  55.5s] where we're going to deep dive all the information you need
+[  57.9s] to be able to begin to learn how to do these types of strategies.
+[  60.7s] It's 90 minutes. We only let 200 people in the room.
+[  63.2s] We're going to deep dive private markets, venture capital, private equity, tax savings.
+[  66.3s] We're going to figure out how can I slash 50% of your taxes
+[  69.4s] so we can take that money and begin investing it to create generational wealth.
+[  72.9s] Click the link down below, reserve your spot, and I'll see you there.

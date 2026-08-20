@@ -1,0 +1,24 @@
+ad_name: Utah Real Estate Agents Free Event | Vid 1
+video_id: 816602417570693
+status: ACTIVE
+duration_seconds: 68.9
+source_door: page-token
+transcribed: 2026-08-20
+---
+[   0.0s] If you live in Salt Lake or along the Wasatch Front, I'm going to hold a really small gathering for
+[   3.5s] real estate agents to go over wealth creation, tax mitigation as a real estate professional.
+[   8.3s] I made my money in real estate just like you, but I created wealth through understanding
+[  12.6s] the tax code and how to mitigate my taxes and investing in private markets. No one has taught
+[  17.7s] you how to really mitigate your taxes. I paid over 35% effective tax rate my first couple
+[  22.2s] years inside the industry. I now pay a 5 to 10% effective tax rate because I understand
+[  26.7s] how to mitigate taxes. Then I used the money that I saved to go invest in things like venture
+[  31.1s] capital, private equity, large scale real estate. You live in one of the epicenters of venture
+[  35.0s] capital, but most people don't understand how to get access to good deal flow and actually invest
+[  39.4s] in it. We're going to hold a two hour presentation on October 17th to go over exactly this. How
+[  43.9s] can a real estate agent mitigate their taxes, try to slash it by 50% and then how do you use
+[  48.8s] that saved money to invest in things outside the stock market like venture capital, private
+[  52.6s] equity and large scale real estate. I traveled the country charging to give this exact same
+[  56.3s] presentation, but we've decided to give it to real estate agents inside the Salt Lake Wasatch
+[  60.2s] area for free. So if you want to reserve your free ticket, I think there's only room for 100 people
+[  64.1s] is going to fill up pretty quick. Click the link down below, reserve your seat and I will see you
+[  67.5s] on October 17th.

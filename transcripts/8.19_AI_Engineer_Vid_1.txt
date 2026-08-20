@@ -1,0 +1,30 @@
+ad_name: 8.19 | AI Engineer Vid 1
+video_id: 1078537824729899
+status: ACTIVE
+duration_seconds: 75.4
+source_door: page-token
+transcribed: 2026-08-20
+---
+[   0.0s] You have two engineers. Both of them graduated from the same school, got some more jobs,
+[   4.2s] are making $300,000 a year, but the difference in retirement is crazy.
+[   8.4s] One of them is going to retire at 65 years old with maybe $2 million in the account,
+[  12.3s] and they're going to struggle because of lifestyle to even make it and pass something on.
+[  15.9s] While the other one retired at 55 years old with $10 million in the bank account,
+[  19.5s] and the difference is how they handle tax mitigation and investing early in their career.
+[  23.7s] The one that retired at 65 was told to follow the broken blueprint.
+[  27.3s] Get your degree, go to a high-paying job, put money in your 401k,
+[  30.5s] maybe get some real estate and hope that it turns into financial wealth.
+[  33.3s] The other one networked properly and found out early on that he could invest the same way
+[  37.4s] business owners do, that if he could invest in a tax-efficient way,
+[  40.4s] and instead of giving the IRS $80,000 a year, he could keep that $80,000,
+[  43.8s] go invest it properly, and grow that year after year, and it turned into $10 million.
+[  48.5s] I've helped thousands of people do this exact same thing.
+[  51.8s] I help high net worth individuals figure out how to create liquidity,
+[  55.2s] mitigate their taxes, take the money saved, and instead of giving the IRS,
+[  58.5s] go put it into private market deals like venture capital and private equity.
+[  61.4s] You do not have to be a business owner. You can be a W-2 engineer and take
+[  64.4s] advantage of all the stuff that we talk about.
+[  66.4s] If this is something you want to learn, click the link down below.
+[  68.8s] We hold a training every single week for two hours,
+[  71.1s] and we train on exactly this.
+[  72.8s] Click the link down below, and I'd love to have you in there.

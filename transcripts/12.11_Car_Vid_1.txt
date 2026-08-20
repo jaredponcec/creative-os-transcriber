@@ -1,0 +1,31 @@
+ad_name: 12.11 | Car Vid 1
+video_id: 1369461404676577
+status: ADSET_PAUSED
+duration_seconds: 57.2
+source_door: page-token
+transcribed: 2026-08-20
+---
+[   0.0s] There's a financial game being played that most highway jurners don't even know exist.
+[   4.8s] While you are working hard doing everything you can to earn your next buck, they are sitting
+[   8.8s] there making their next investment while you fund their taxes.
+[  12.3s] The effective tax rate of people that make over a million dollars is usually like 10,
+[  16.9s] 15, maybe 20 percent.
+[  18.5s] Where the effective tax rate of people making between 100,000 and a million dollars is
+[  22.0s] usually over 30 percent.
+[  23.5s] There's a vast, vast difference and it's because they know how to mitigate their
+[  26.4s] taxes, save that money and get into real investments.
+[  29.5s] Venture capital, private equity, large scale real estate to really maximize those returns.
+[  33.4s] So that is why I'm holding this webinar series.
+[  35.2s] I've done it for over 2000 people over the last six months and we go over these
+[  38.8s] exact strategies.
+[  39.6s] How can you mitigate your taxes?
+[  40.9s] How do you get access to deal flow?
+[  42.3s] What kind of returns do you see?
+[  43.9s] What investments do you see so that you can start playing the game like the
+[  46.9s] wealthy do?
+[  47.4s] So if you want to get access, you can click the link down below.
+[  49.7s] It's 97 bucks.
+[  50.7s] We only let 200 people in.
+[  52.3s] Once we hit 200 people, we turn it off.
+[  53.9s] So if you want to reserve your seat, you can click the link down below and
+[  56.1s] I can't wait to see that.
