@@ -1,0 +1,24 @@
+ad_name: 3.16 | Batch 2 | Podcast Style V2 (CTA 1)
+video_id: 1401621138401362
+status: CAMPAIGN_PAUSED
+duration_seconds: 68.1
+source_door: page-token
+transcribed: 2026-08-21
+---
+[   0.0s] Braden, what's your current effective tax rate and how did you get it there?
+[   3.4s] Last year I was under five, I think I was like 4.2. This year I'll probably be in like 2% range.
+[   8.4s] The more you make, the easier it is, but everyone can do it. You just have to learn
+[  12.6s] what the IRS code is telling you to invest in. The IRS code is designed to tell you what to do.
+[  17.9s] It's not a bunch of don'ts. It's actually a bunch of do's. If you invest in this,
+[  21.3s] then we'll let you write it off. If you invest in this, we'll let you write it off. And so
+[  24.2s] you've got to look at it and understand they want me to buy equipment. And so I'm going
+[  28.1s] to buy equipment, then I'm going to rent that equipment out. And the cash flow is going to pay
+[  31.5s] for that equipment, but the purchase of that equipment, I get to write off my taxes. And
+[  34.7s] what it ends up doing is when you do it right and structure it right, you can eliminate 96,
+[  38.6s] 98% of your taxes. It's pretty crazy. We are in tax season right now. So if you're about to write
+[  43.7s] a large check to the IRS, this is for you. We are going to hold a webinar where I'm going to
+[  48.0s] show you the how really all you need, you need someone to show you the how and then you need
+[  52.1s] someone to make that introduction so you can actually implement these strategies. And I'm
+[  55.8s] going to do exactly that 90 minute webinar all based on private market deals and taxes,
+[  59.9s] so that you can finally make this the last year you write that check because you're
+[  63.8s] investing the way you're supposed to click the link down below. And I'd love to see you in that webinar.

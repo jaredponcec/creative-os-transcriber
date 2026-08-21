@@ -1,0 +1,16 @@
+ad_name: 2.26 | NYC Vid 1
+video_id: 1576186847450493
+status: CAMPAIGN_PAUSED
+duration_seconds: 31.2
+source_door: page-token
+transcribed: 2026-08-21
+---
+[   0.0s] If you're making over $200,000 a year, I want to invite you to a training where we're going to
+[   3.3s] go over how to mitigate taxes and multiply your wealth. We're going to teach you how to stop
+[   7.5s] overpaying the IRS by accessing private markets and investments that the millionaires and
+[  11.7s] billionaires use every single day. You think those investments are just for them, but that's
+[  15.5s] not true. You just haven't been taught how or introduced to the people that can make it
+[  18.7s] happen. I'm going to hold a 90 minute training where we go over exactly how you mitigate
+[  22.1s] taxes, how do you get into venture capital and find that equity has a normal every day
+[  25.4s] person to multiply your wealth and mitigate your tax. Click the link down below. We only
+[  29.0s] have 200 people in and I'd love to see you there.

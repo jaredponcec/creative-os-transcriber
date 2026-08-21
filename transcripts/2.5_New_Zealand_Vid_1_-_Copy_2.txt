@@ -1,0 +1,21 @@
+ad_name: 2.5 | New Zealand Vid 1 - Copy 2
+video_id: 1014105521129498
+status: CAMPAIGN_PAUSED
+duration_seconds: 49.0
+source_door: page-token
+transcribed: 2026-08-21
+---
+[   0.0s] You are making way too much money to pay that much in taxes.
+[   3.4s] The truth is the system isn't made for you.
+[   5.2s] The most taxed individuals make between $200,000 and $2 million a year.
+[   9.4s] We hear about politicians and celebrities paying four, five, six percent taxes making
+[  13.2s] billions of dollars. Meanwhile, you're stuck paying 25 to 35 percent of everything that you make.
+[  17.5s] I still remember the first time I made $250,000. I was hyped. That was my goal.
+[  20.7s] Then I wrote an $87,000 check to the IRS and it completely crushed me.
+[  24.3s] Luckily, I was born into a network of basketball of millionaires and billionaires that could
+[  27.3s] show me the way. They showed me that you can make good money and simultaneously lower your taxes.
+[  32.2s] That's why I'm holding the wealthy written training where I'm going to show you exactly
+[  35.3s] how they do it. What are they actually investing? How are they lowering their taxes?
+[  38.2s] How do they get their effective tax rate to five or 10 percent while simultaneously investing
+[  42.4s] that money? It's a 90-minute training. We only let 200 people in. If you'd like to reserve
+[  46.2s] your spot, you can click the link down below and I'd love to see you there.

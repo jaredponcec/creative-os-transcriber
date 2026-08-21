@@ -1,0 +1,24 @@
+ad_name: 3.13 | Podcast Style V2
+video_id: 1656561422431682
+status: CAMPAIGN_PAUSED
+duration_seconds: 52.2
+source_door: page-token
+transcribed: 2026-08-21
+---
+[   0.0s] So you always talk about investing to save on taxes.
+[   3.0s] Can you walk me through how that actually works?
+[   4.9s] If I can buy a tractor and write it off my taxes, but then I can rent that tractor to a business,
+[  10.2s] I create cash flow by renting it out.
+[  13.0s] But the purchase of that asset is completely written off my taxes.
+[  16.5s] That is investing for tax purposes because then you're getting the cash flow return,
+[  20.6s] but you're also saving a ton, 10, sometimes 100, sometimes millions of dollars on taxes.
+[  25.0s] We are in tax season right now.
+[  26.8s] So if you're about to write a large check to the IRS, this is for you.
+[  30.2s] We are going to hold a webinar where I'm going to show you the how.
+[  33.1s] Really all you need, you need someone to show you the how,
+[  35.8s] and then you need someone to make that introduction so you can actually implement
+[  39.0s] these strategies, and I'm going to do exactly that.
+[  41.0s] 90-minute webinar all based on private market deals and taxes,
+[  44.2s] so you can finally make this the last year you write that check,
+[  47.5s] because you're investing the way you're supposed to.
+[  49.4s] Click the link down below, and I'd love to see you in that webinar.

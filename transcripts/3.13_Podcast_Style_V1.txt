@@ -1,0 +1,18 @@
+ad_name: 3.13 | Podcast Style V1
+video_id: 1670755484253507
+status: CAMPAIGN_PAUSED
+duration_seconds: 45.5
+source_door: page-token
+transcribed: 2026-08-21
+---
+[   0.0s] Do you know of any high earning W2 employees that have been able to basically eliminate
+[   5.2s] their effective tax burden this year? I help thousands of people every single year do this.
+[  10.6s] One in particular that I think of is Andrew. The reason I think of him is because he's a CPA,
+[  14.3s] but he didn't know how to do it. He'd always do the tax returns and see other people do it,
+[  17.9s] but he didn't know the strategy and figure it out. So he came to me, helped him write off.
+[  21.2s] I think it was $350,000 of his income. You just have to figure out the strategy and how
+[  26.6s] That's exactly why I'm holding a 90 minute webinar where I'm going to show you how we're
+[  30.7s] going to go through proper liquidity, private market deals and all the tax mitigation stuff
+[  35.1s] that we just talked about so that you can have the how and then I'll show you how to make that
+[  39.6s] introduction. If you want to join, we only let 200 people into each webinar. You can click
+[  43.3s] the link down below and I'd love to see you there.

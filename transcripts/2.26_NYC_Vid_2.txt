@@ -1,0 +1,20 @@
+ad_name: 2.26 | NYC Vid 2
+video_id: 1264027335834602
+status: CAMPAIGN_PAUSED
+duration_seconds: 36.4
+source_door: page-token
+transcribed: 2026-08-21
+---
+[   0.0s] If you make $200,000 a year, you might be the biggest risk, you're well.
+[   3.5s] Most people are always saying I write a massive check every single April and it drives me nuts,
+[   7.4s] or I feel like I'm working way too hard to get hit that hard in the back.
+[  10.5s] The bad news is you probably are. The good news is completely fixable.
+[  13.9s] I'm going to invite you to a training where we're going to fix exactly this, okay?
+[  16.9s] I still remember the first time I wrote over a quarter million dollar
+[  19.2s] check to the IRS that absolutely broke me.
+[  21.0s] Luckily I was born into a network of millionaires and billionaires that could
+[  23.4s] teach me how to change that and that's what I'm going to teach you on this train.
+[  26.2s] You register for the link down below, we're going to go over tax mitigation,
+[  28.9s] private equity, venture capital. How do you actually save money on taxes
+[  32.3s] and that's the right way to go your network?
+[  34.2s] Click the link down below and I'd love to see you there.
