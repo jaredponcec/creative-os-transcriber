@@ -1,0 +1,24 @@
+ad_name: 3.16 | Batch 2 | Podcast Style V3 (CTA 1)
+video_id: 1710521523690676
+status: CAMPAIGN_PAUSED
+duration_seconds: 72.4
+source_door: page-token
+transcribed: 2026-08-22
+---
+[   0.0s] So you've said that the $200,000 to $2 million income bracket is the most taxed bracket in America.
+[   5.4s] Why do you think that is?
+[   6.6s] I think people under $200,000 have a lot of access just by the way the tax code is written
+[  12.9s] to get right off. Standard deductions, child tax care credits, they have stuff available.
+[  17.1s] Between $200,000 and $2 million, you've got to start using advanced strategies, depreciation,
+[  21.8s] side businesses, heavy machinery, equipment housing. There's so many strategies out there,
+[  26.6s] but they don't know about them or how to implement them because you usually have to be
+[  30.1s] making millions of dollars to employ a tax attorney to actually do it. And so what ends up happening
+[  35.1s] is there's like this void of people where standard deductions don't work, but you don't
+[  38.5s] have enough money to employ a tax attorney. And so they end up getting hosed on taxes paying
+[  42.8s] 25, 30, 35% taxes. We are in tax season right now. So if you're about to write a large check
+[  48.6s] to the IRS, this is for you. We are going to hold a webinar where I'm going to show you
+[  52.6s] the how really all you need you need someone to show you the how and then you need someone to make
+[  56.9s] that introduction so you can actually implement these strategies and I'm going to do exactly that
+[  61.0s] 90 minute webinar all based on private market deals and taxes so you can finally make this the last
+[  66.5s] year you write that check because you're investing the way you're supposed to click the link down
+[  70.0s] below and I'd love to see you in that webinar.

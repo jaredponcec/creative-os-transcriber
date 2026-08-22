@@ -1,0 +1,24 @@
+ad_name: 3.4 | NZ Airport Selfie Style V1
+video_id: 1409997857003213
+status: CAMPAIGN_PAUSED
+duration_seconds: 70.9
+source_door: page-token
+transcribed: 2026-08-22
+---
+[   0.0s] High income earners, you are working way too hard to pay that much in taxes. If you're paying 25, 30,
+[   5.0s] 35% taxes, you're paying too much. What people don't realize, if you're a business owner or a W2
+[  10.1s] employee, the IRS is there to incentivize behavior. I still remember when I made my first $250,000,
+[  16.7s] I wrote an $87,000 check to the IRS. It completely killed me. Now, luckily, I was born
+[  21.5s] almost seven feet tall, was dropped into a network of millionaires and billionaires,
+[  24.7s] and they taught me how to invest, but they didn't teach me just how to invest. They taught
+[  27.8s] me how to invest the way the IRS wants you to. If you do what the tax code tells you to, you can
+[  33.3s] write stuff off your taxes simultaneously, making money through your investments, and that is the
+[  37.8s] key. It took me years to figure this out. Now it saves me millions every single year. I was lucky.
+[  42.5s] I was born almost seven feet tall, and so I was surrounded by millionaires and billionaires that
+[  45.3s] could teach me, and that's what I'm going to try to condense into a 90-minute training to
+[  49.4s] teach all of you the exact same thing. How do I save millions of dollars on my taxes every year?
+[  53.4s] How do I eliminate my income while simultaneously saving enough of the dollars that I already
+[  57.7s] made to go invest in things like venture capital, private equity, all of that? If that's what you
+[  61.8s] want to learn, click the link down below, Modern Wealth Roadmap. We're going to deep
+[  65.5s] dive into it for 90 minutes. We only let 200 people in, and I can't wait to see you there.
+[  69.3s] Click the link, and I'll see you soon.

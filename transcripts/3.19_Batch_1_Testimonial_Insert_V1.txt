@@ -1,0 +1,17 @@
+ad_name: 3.19 | Batch 1 | Testimonial Insert V1
+video_id: 1527985819001451
+status: CAMPAIGN_PAUSED
+duration_seconds: 39.7
+source_door: page-token
+transcribed: 2026-08-22
+---
+[   0.0s] High income earners don't want to hear this, but the truth is the vast majority of you are
+[   4.8s] overpaying the IRS. If you are making between $200,000 and $2 million a year, you are some of the
+[  10.2s] highest taxed individuals in America, not the billionaires, not the corporations, you. The
+[  14.9s] billionaires that pay less in taxes are not smarter than you. They've just been given a playbook
+[  19.1s] and they're starting to implement it. And you can do the exact same thing. That is why
+[  23.0s] I'm holding the wealth rewritten webinar. I'm going to teach you how to actually mitigate
+[  27.0s] your taxes. What are the deals? How do you set it up? How do you structure it? And then how do we
+[  30.1s] take that money and invest in private markets? Stuff like venture capital, private equity, and
+[  33.8s] large scale real estate. It's 90 minutes. We only let 200 people in. So click the link down below
+[  38.0s] and I'd love to see you in there.
