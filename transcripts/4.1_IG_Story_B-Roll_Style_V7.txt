@@ -1,0 +1,8 @@
+ad_name: 4.1 | IG Story + B-Roll Style | V7
+video_id: 2160713064695538
+status: PAUSED
+duration_seconds: 8.0
+source_door: page-token
+transcribed: 2026-08-23
+---
+[   0.0s] You

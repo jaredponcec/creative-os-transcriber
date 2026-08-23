@@ -1,0 +1,27 @@
+ad_name: 4.14 | Overhead Vid 2 - Copy
+video_id: 1898529634131178
+status: CAMPAIGN_PAUSED
+duration_seconds: 88.1
+source_door: page-token
+transcribed: 2026-08-23
+---
+[   0.0s] High income earners, I need you to stop for a second and ask yourself one question.
+[   3.9s] Where does your money actually go at the end of the year?
+[   6.6s] If you're like most high income earners, it looks something like this chart,
+[   9.8s] depending on the state you're in. Your taxes are going to end up being about 40%
+[  14.3s] of every dollar you make is going to federal and state taxes. Your life is usually going
+[  18.7s] to be about 30%. These are your necessities, your mortgage, your insurance, everything that
+[  22.6s] you have to pay. If you're doing really good, you might be putting 20% to investments,
+[  28.0s] and then the last 10% right here, this is where you actually get discretionary income
+[  32.6s] where you get your wants, maybe $50,000. You just made $500,000 and maybe if you're living a
+[  39.2s] good life investing, you might have 10% to actually spend it on something that you're
+[  43.2s] looking for. The crazy part is most people in your situation don't have to pay 40%. The IRS
+[  49.5s] has literally given us a book telling us how to invest. If you invest this way, we allow you
+[  53.6s] to write it off your taxes. Imagine if you could shrink your taxes to 8%, 10%, maybe 12%,
+[  59.2s] what it would do to this entire pie chart. Now instead of spending $200,000 a year on taxes
+[  64.2s] like you were at 40%, maybe you spend $50,000, $60,000, $80,000 on taxes, and you take the other
+[  69.6s] $150,000 and throw it into investing and maybe a little bit of personal, and it completely
+[  75.0s] transforms your life. If this is something you want, if you're a high income earner,
+[  78.2s] click the link down below. We do these often. We only let about 100 to 200 people in the
+[  81.8s] room or we're going to deep dive tax mitigation investing so you can create generational wealth.
+[  85.9s] Click the link down below and I can't wait to see you there.

@@ -1,0 +1,40 @@
+ad_name: 4.14 | LA Hotel Vid 3
+video_id: 2101733803723141
+status: CAMPAIGN_PAUSED
+duration_seconds: 83.5
+source_door: page-token
+transcribed: 2026-08-23
+---
+[   0.0s] If you are a high income earner, you have to listen up.
+[   3.1s] The biggest economic shift of our entire lifetimes is happening right now.
+[   6.3s] AI is not coming, it's already here.
+[   7.9s] And the ones that are going to end up ahead are the ones that are being smart
+[  10.7s] about deploying their capital, let me explain what I mean.
+[  12.8s] While you are paying 25, 35, 45% in taxes, there's a lot of people that have figured
+[  17.5s] out how to mitigate it. Down to 5 to 10% and take that money
+[  20.3s] and go invest it into assets.
+[  22.1s] If you're making 200, 500, maybe even a million dollars, but paying 25,
+[  25.9s] 35, 40% every single year at IRS, that is not investing,
+[  29.6s] you are just handing away money that you worked hard for.
+[  32.1s] Meanwhile, there's people who have figured this out.
+[  33.9s] There are W-2 and business owners who may pay 5 or 10% in taxes
+[  37.6s] because they understand how to invest.
+[  39.2s] They're buying heavy equipment, short-term rentals, oil and gas, data centers.
+[  42.8s] They're investing their dollars in a tax-efficient way
+[  45.8s] and paying significantly less in taxes because of it.
+[  48.4s] Income stops when wealth doesn't and the gap that is being created
+[  51.8s] is those that are able to deploy more of the dollars that are already earning
+[  54.8s] before AI really kicks in in full steam
+[  57.4s] are going to end up infinitely more wealthy than those that aren't.
+[  60.0s] There is a difference between high income and wealthy
+[  62.3s] and right now is the time that it's decided.
+[  64.2s] So if you're a high income earner, we're going to hold a webinar
+[  66.4s] where we're going to teach exactly this.
+[  67.8s] How do you actually mitigate your taxes?
+[  69.1s] What do you go into and then how do you take that money
+[  71.0s] and go invest it in a way that can actually multiply
+[  73.5s] in things like private equity, venture capital, real estate,
+[  75.8s] tax advantage investments so you can start to create real wealth?
+[  78.5s] If that's something you'd be interested in,
+[  79.7s] click the link down below.
+[  80.5s] We're running about 200 people into the webinar and I'd love to see you there.
