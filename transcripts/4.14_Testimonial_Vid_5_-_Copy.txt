@@ -1,0 +1,24 @@
+ad_name: 4.14 | Testimonial Vid 5 - Copy
+video_id: 1550907959793279
+status: CAMPAIGN_PAUSED
+duration_seconds: 38.8
+source_door: page-token
+transcribed: 2026-08-24
+---
+[   0.0s] I run a pickle company.
+[   1.4s] My name is Ken Rowland.
+[   2.4s] I am within five to seven years of retiring
+[   5.4s] and I'm not where I need to be.
+[   7.2s] You know, the great thing about growth circles
+[   9.0s] is there's a tremendous number of resources
+[  11.2s] aggregated together in one place.
+[  13.1s] I don't have to go out and find a tax specialist
+[  15.3s] that hope I picked the right one.
+[  16.8s] I would never have VC or private market deal opportunities
+[  20.5s] without going through a growth circle.
+[  22.5s] That's something that's never been offered
+[  24.8s] to me in my life.
+[  25.8s] The fact that people who have made lots of money
+[  28.1s] are willing to share those secrets
+[  29.7s] and talk about their journey
+[  31.1s] is probably the biggest piece that I find beneficial.

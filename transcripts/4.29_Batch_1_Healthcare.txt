@@ -1,0 +1,20 @@
+ad_name: 4.29 | Batch 1 | Healthcare
+video_id: 3256314944570427
+status: PAUSED
+duration_seconds: 48.1
+source_door: page-token
+transcribed: 2026-08-24
+---
+[   0.0s] If you have a high income W-2 and you're in health care, this is for you.
+[   3.6s] You're paying 35, 40, sometimes 50 cents on every dollar you make to the United States government
+[   8.2s] and you don't have to. Tax mitigation works for both business owners and W-2 employees.
+[  12.9s] You've just never been taught how to do it. It kills me when I see a health care worker and a
+[  16.4s] business owner make the exact same amount of money, but you're paying two to three times
+[  20.2s] what that business owner is paying. The IRS code book is a list of do's not don'ts. It is
+[  24.9s] sitting there telling you how to invest your money to mitigate your taxes as a W-2 employee,
+[  29.3s] you just have to actually do it. That is why I'm holding a two-hour workshop where I'm going to
+[  32.7s] go over all of this. How do you mitigate your taxes? How do you actually save that money,
+[  35.9s] take that money, and go invest it in both the stock market but also private market,
+[  39.4s] stuff like venture capital, private equity, and large-scale real estate.
+[  41.8s] If you want to start saving more of every dollar that you make so you can actually get ahead,
+[  45.7s] click the link down below and register and I can't wait to see you there.

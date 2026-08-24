@@ -1,0 +1,32 @@
+ad_name: 4.14 | Testimonial Vid 4
+video_id: 1283731857073068
+status: CAMPAIGN_PAUSED
+duration_seconds: 61.5
+source_door: page-token
+transcribed: 2026-08-24
+---
+[   0.0s] What was your biggest challenge building wealth?
+[   2.3s] Access to different types of investments
+[   5.2s] that you can get on the stock market.
+[   7.2s] So why did you decide to join Grocercle?
+[   9.2s] The education part of understanding
+[  12.3s] how you can make your money work for you.
+[  14.6s] Also understanding how you can pay less in taxes.
+[  18.8s] That's a very big deal.
+[  20.6s] When you start making more money,
+[  22.0s] you have to understand how to keep your money.
+[  25.1s] What would you say to somebody that's on the fence
+[  26.9s] about joining Grocercle?
+[  28.2s] Diven, we all heard it today.
+[  29.9s] Braden says that he has a money back guarantee.
+[  32.7s] And also I think that the ongoing education
+[  35.5s] in our world today,
+[  36.6s] because things are going so fast
+[  38.6s] and developing so quickly,
+[  40.2s] we all need to make sure that we continue
+[  42.3s] to educate ourselves in order to further our own lives.
+[  46.8s] I said earlier, I'm a month in
+[  48.8s] and I feel like I have learned so much
+[  51.8s] in that shorter period of time.
+[  53.2s] The speed in which I have gained the knowledge
+[  55.2s] has been the same.

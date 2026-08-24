@@ -1,0 +1,20 @@
+ad_name: 4.29 | Batch 1 | General DC
+video_id: 1446539516763345
+status: CAMPAIGN_PAUSED
+duration_seconds: 47.1
+source_door: page-token
+transcribed: 2026-08-24
+---
+[   0.0s] If you're making between $200,000 and $2 million a year, your taxes are likely your largest bill.
+[   4.9s] I still remember the first time I got into that income rage. I was on cloud nine. I was investing.
+[   8.4s] I was finally putting money away. Then April 15th, I had to write an $87,000 check to the government
+[  13.1s] and it completely wiped me out. If you're W-2, they just take it out of your paycheck every
+[  17.3s] other week. If you're a business owner, you've likely written that check, but either way,
+[  20.6s] tax mitigation is available to everyone. Your CPA just isn't teaching you how. I've helped
+[  24.6s] thousands of people lower their taxes and then take that saved money and go invest it in their
+[  28.5s] own future. You likely don't have to make more money. You just have to keep more of every dollar
+[  32.6s] you're already making. If that's what you want to learn, we're holding a two-hour workshop
+[  35.7s] where we're going to deep dive it. How do you mitigate your taxes? How do you take that money
+[  38.7s] and put it in public markets, stocks, bonds, and then how do you get access to stuff like
+[  42.3s] private equity and venture capital? That's something that you want to learn. Click
+[  45.1s] the link down below and I can't wait to see you there.

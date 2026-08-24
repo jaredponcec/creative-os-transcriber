@@ -1,0 +1,24 @@
+ad_name: 4.14 | Top Ad Compilation V1
+video_id: 1222324166453619
+status: CAMPAIGN_PAUSED
+duration_seconds: 39.0
+source_door: page-token
+transcribed: 2026-08-24
+---
+[   0.0s] While you're investing in stocks and get maybe 8 to 10% returns,
+[   3.4s] millionaires and billionaires are getting 15, 20, even 30% returns.
+[   7.0s] Venture capital is an asset class that every day people can get access to.
+[  10.7s] They just don't know how.
+[  11.7s] That's exactly why I'm holding my 90-minute webinar,
+[  13.7s] where we're going to go through everything.
+[  15.0s] How do you start to invest in private equity,
+[  16.9s] venture capital, large-scale real estate?
+[  18.3s] How do you mitigate your taxes?
+[  19.5s] How do you play the game, the elite play,
+[  21.4s] so that you can start getting returns and creating generational wealth?
+[  24.5s] Putting money in your 401k, working for a job,
+[  26.5s] maybe buying real estate just isn't good enough.
+[  28.6s] You have to educate yourself.
+[  29.9s] Put a little bit of effort in and I promise on the other side is real wealth.
+[  33.8s] If you want to reserve your spot, we're only letting 200 people in.
+[  36.3s] You can click the link down below and it cannot wait to see you there.

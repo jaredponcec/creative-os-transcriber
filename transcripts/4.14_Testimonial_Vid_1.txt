@@ -1,0 +1,14 @@
+ad_name: 4.14 | Testimonial Vid 1
+video_id: 949113791184518
+status: CAMPAIGN_PAUSED
+duration_seconds: 37.4
+source_door: page-token
+transcribed: 2026-08-24
+---
+[   0.0s] I would never have VC or private market deal opportunities without going through growth circle.
+[   5.6s] My name is Ken Roland. I am within five to seven years of retiring and I'm not where I need to be.
+[  11.4s] You know the great thing about growth circle is those are tremendous number of resources
+[  15.4s] aggregated together in one place. I don't have to go out and find a tax specialist and hope I
+[  19.9s] picked the right one. That's never something that's never been offered to me in my life.
+[  24.2s] The fact that people who have made lots of money are willing to share those secrets
+[  28.2s] and talk about their journey is probably the biggest piece that I find beneficial.

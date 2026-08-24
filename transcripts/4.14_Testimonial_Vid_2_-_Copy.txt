@@ -1,0 +1,21 @@
+ad_name: 4.14 | Testimonial Vid 2 - Copy
+video_id: 2348757015629315
+status: CAMPAIGN_PAUSED
+duration_seconds: 59.0
+source_door: page-token
+transcribed: 2026-08-24
+---
+[   0.0s] What was your biggest challenge building wealth?
+[   2.2s] Just trying to understand all of the different options that are out there like heavy machinery.
+[   7.4s] So why did you decide to join Gross Circle?
+[   9.4s] I think it was just seeing Braden on Instagram to be honest with you and just listening to that
+[  14.4s] advice that seemed to be very sound advice being part of a group that where you can ask questions
+[  18.9s] and people could give you a lot of different feedback to help you assess different situations
+[  23.7s] or opportunities for you and then heavy machinery has been the biggest one.
+[  26.9s] You have these aha moments like wait a minute how come I don't know about that and that's
+[  30.6s] probably been my biggest one so far.
+[  32.3s] What would you say to someone that's on the fence about joining Gross Circle?
+[  35.7s] Oh like what are you waiting for? Braden guarantees to pay the money back
+[  40.1s] but I also kind of believe you kind of have to spend money to make money
+[  44.2s] and I know that's an old saying but I think there's a lot of value in that and just the
+[  48.3s] knowledge you can't pay for that at this cost in anywhere else so I think it's just valuable.

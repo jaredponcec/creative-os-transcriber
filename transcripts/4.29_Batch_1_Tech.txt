@@ -1,0 +1,36 @@
+ad_name: 4.29 | Batch 1 | Tech
+video_id: 931402026689288
+status: CAMPAIGN_PAUSED
+duration_seconds: 52.7
+source_door: page-token
+transcribed: 2026-08-24
+---
+[   0.0s] High income workers are intact, business for you.
+[   2.6s] You've cracked the code on making good money,
+[   4.6s] but your largest bill, it's not your mortgage,
+[   6.6s] it's not your student loans, it's likely your taxes.
+[   9.1s] You make great income as a W-2, and on top of that,
+[  11.4s] a lot of you are getting RSU and stock options
+[  13.2s] and everything else, and the combination of the two
+[  15.0s] results in a lot of taxes, but it doesn't have to.
+[  17.4s] It kills me when I see a tech worker
+[  18.9s] and a business owner make the same amount of money,
+[  20.9s] but the business owner pays half the taxes that you do.
+[  23.6s] That does not have to be the case.
+[  24.9s] The IRS literally gave us a book of things
+[  26.8s] that we can do to lower our taxes.
+[  28.6s] When you go in with that mindset and understand
+[  31.0s] that when they want you to invest, they put it in there,
+[  33.2s] you can learn how to mitigate your taxes
+[  34.8s] like business owners do.
+[  35.7s] If you wanna understand how to do it,
+[  37.2s] click the link down below.
+[  38.1s] We're gonna hold a two hour workshop
+[  39.2s] where that's what we go through.
+[  40.2s] How do you mitigate your taxes as a W-2 employee?
+[  42.7s] How do you take that money and go invest
+[  44.3s] in it instead of markets and private markets,
+[  46.2s] stuff like venture capital, private activity,
+[  47.6s] because you can get access to them.
+[  49.4s] If that's something that you wanna do,
+[  50.8s] click the link down below, I can't wait to see you there.
