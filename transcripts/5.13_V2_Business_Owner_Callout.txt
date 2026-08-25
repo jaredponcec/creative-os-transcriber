@@ -1,0 +1,13 @@
+ad_name: 5.13 | V2 (Business Owner Callout)
+video_id: 1486974669789110
+status: CAMPAIGN_PAUSED
+duration_seconds: 22.6
+source_door: page-token
+transcribed: 2026-08-25
+---
+[   0.0s] If you are a business owner there are so many ways you can save money on your taxes.
+[   4.1s] Billionaires will pay a 2% effective tax rate while meanwhile you're paying a 40%
+[   8.1s] effective tax rate. The crazy thing is it's maybe two or three hours of sitting down educating
+[  12.3s] yourself so you can start saving money on taxes. I know that sounds complicated but I'm
+[  15.8s] going to break it all down into two hour wealth rewritten training. You click the link
+[  18.8s] down below you can reserve your spot I can't wait to see you there I promise it's worth it.

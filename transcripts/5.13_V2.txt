@@ -1,0 +1,21 @@
+ad_name: 5.13 | V2
+video_id: 2349691092192613
+status: PAUSED
+duration_seconds: 60.1
+source_door: page-token
+transcribed: 2026-08-25
+---
+[   0.0s] What is the difference on what an attorney or a doctor pays in taxes versus, let's say,
+[   5.0s] a business owner or investor? And why is that gap so big? The gap is massive. I bet you are high
+[  10.7s] earning attorneys and doctors, especially the ones in high tax states are paying 40, 45, 50%,
+[  16.3s] which is crazy, where our business owners are probably paying 15, 20%. That happens because
+[  20.6s] of ignorance. And I don't mean that in an offensive way. They just don't know how to
+[  24.6s] mitigate their taxes where business owners have been taught and are in the circles that
+[  28.2s] teach them. My biggest piece of advice for W2 earners is get in the right rooms, figure out how
+[  32.5s] to mitigate your taxes, and try it. Dip your toe in tax mitigation first, figure out if it works,
+[  37.2s] because it can save you hundreds of thousands of dollars over your life. If you are a doctor,
+[  41.1s] engineer, attorney, or executive and you are paying too much in taxes, this webinar is for
+[  45.6s] you. This training is built for you and no one has ever taught you this stuff. Not your CPA,
+[  50.2s] not your financial advisor, and it is probably costing you tens of thousands of dollars a
+[  53.4s] year that you probably don't actually have to pay. Two hours, $97 for you to invest in
+[  57.5s] yourself. Click the link down below and I can't wait to see you there.

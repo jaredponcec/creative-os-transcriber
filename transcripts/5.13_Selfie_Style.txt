@@ -1,0 +1,10 @@
+ad_name: 5.13 | Selfie Style
+video_id: 962280189777395
+status: PAUSED
+duration_seconds: 10.2
+source_door: page-token
+transcribed: 2026-08-25
+---
+[   0.0s] If you're a high income earner sick of paying way too much in taxes and you want to figure
+[   3.6s] out how to get into private market investing, click the link down below.
+[   6.6s] We're holding a two hour webinar to go over exactly that, can't wait to see you there.

@@ -1,0 +1,20 @@
+ad_name: 5.13 | V1
+video_id: 1858107962242690
+status: PAUSED
+duration_seconds: 21.4
+source_door: page-token
+transcribed: 2026-08-25
+---
+[   0.0s] Stop paying more than your fair share of taxes.
+[   3.1s] Billionaires will pay a 2% effective tax rate,
+[   5.3s] while meanwhile you're paying a 40% effective tax rate.
+[   8.0s] The crazy thing is it's maybe two or three hours
+[  10.1s] of sitting down, educating yourself
+[  11.7s] so you can start saving money on taxes.
+[  13.6s] I know that sounds complicated,
+[  14.6s] I'm gonna break it all down
+[  15.6s] into two hour wealth rewritten training.
+[  17.3s] You click the link down below,
+[  18.2s] you can reserve your spot,
+[  19.1s] I can't wait to see you there,
+[  20.1s] I promise it's worth it.
