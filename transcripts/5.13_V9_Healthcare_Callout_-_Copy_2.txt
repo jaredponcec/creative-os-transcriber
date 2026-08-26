@@ -1,0 +1,15 @@
+ad_name: 5.13 | V9 (Healthcare Callout) - Copy 2
+video_id: 4532110023727777
+status: CAMPAIGN_PAUSED
+duration_seconds: 24.2
+source_door: page-token
+transcribed: 2026-08-26
+---
+[   0.0s] If you are a health care worker, you are paying way too much in taxes.
+[   3.7s] W2 earners and business owners have the exact same opportunity to save money on their taxes.
+[   8.2s] The problem is W2 wage earners just aren't taught how.
+[  10.6s] The crazy thing is it's maybe two or three hours of sitting down,
+[  13.4s] educating yourself so you can start saving money on taxes.
+[  16.2s] I know that sounds complicated but I'm gonna break it all down into two-hour
+[  18.9s] wealth rewritten training. You click the link down below,
+[  20.8s] you can reserve your spot. I can't wait to see you there. I promise it's worth it.

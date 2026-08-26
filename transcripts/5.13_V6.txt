@@ -1,0 +1,21 @@
+ad_name: 5.13 | V6
+video_id: 1524953555748300
+status: PAUSED
+duration_seconds: 23.4
+source_door: page-token
+transcribed: 2026-08-26
+---
+[   0.0s] Stop paying more than your fair share of taxes.
+[   3.1s] W2 earners and business owners have the exact same opportunity
+[   6.5s] to save money on their taxes.
+[   7.6s] The problem is W2 wage earners just aren't taught how.
+[  10.1s] The crazy thing is it's maybe two or three hours
+[  12.1s] of sitting down, educating yourself
+[  13.8s] so you can start saving money on taxes.
+[  15.6s] I know that sounds complicated,
+[  16.6s] I'm gonna break it all down
+[  17.6s] into two hour wealth rewritten training.
+[  19.3s] You click the link down below,
+[  20.2s] you can reserve your spot,
+[  21.1s] I can't wait to see you there,
+[  22.1s] I promise it's worth it.

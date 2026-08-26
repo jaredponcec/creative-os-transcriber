@@ -1,0 +1,36 @@
+ad_name: 5.13 | V3
+video_id: 1530710522039627
+status: PAUSED
+duration_seconds: 76.4
+source_door: page-token
+transcribed: 2026-08-26
+---
+[   0.0s] So, why is it that a W-2 tech worker, let's say an engineer who's making $300,000 a year
+[   5.8s] pays way more in taxes than their founder or the investors who are making tens of millions
+[  11.2s] of dollars every year?
+[  12.4s] Because most tech employees accept the tax rate they're given.
+[  15.4s] They make $400,000 a year, $3, $4, $5, $1 million a year, whatever it is, and they
+[  19.4s] just accept that they have to pay $30, $35, $40, depending on your state, sometimes
+[  23.1s] 50% in state and federal taxes.
+[  25.3s] That is not the case.
+[  26.3s] They're not mitigating it.
+[  27.3s] What ends up happening is their business owners know how to mitigate, they know how to
+[  29.8s] use debt, they know how to use leverage, they know how to buy assets to mitigate it.
+[  33.4s] Their founder of their company that's worth hundreds of millions of dollars is paying a
+[  36.6s] 5% effective tax rate.
+[  38.2s] When their employees are paying a 30% effective tax rate, that doesn't have to be.
+[  41.8s] The difference, the gap there is simply education.
+[  44.4s] The employee can pay the same tax rate as that founder if they just knew what they
+[  47.4s] were doing.
+[  48.4s] Here's the thing.
+[  49.4s] Most people think private market deals are for billionaires and the tax mitigation
+[  52.1s] is something that they can't do.
+[  53.7s] That is not the case.
+[  54.9s] You don't need some special credentials, you just need someone to show you how
+[  57.8s] to do it.
+[  58.8s] That's why we hold the two-hour well-threatened webinar where we deep-dive everything.
+[  62.2s] We only let 200 people in the room every single week so I can answer your questions so that
+[  65.4s] we can deep-dive tax mitigation, private markets, liquidity, everything that you need
+[  69.3s] to finally fix your situation.
+[  71.1s] If you're sick of paying 20, 30, 40% taxes, click the link down below, reserve
+[  75.0s] your seat and I can't wait to see you there.

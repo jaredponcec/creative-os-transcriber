@@ -1,0 +1,13 @@
+ad_name: 5.13 | V7
+video_id: 847864417760749
+status: CAMPAIGN_PAUSED
+duration_seconds: 11.8
+source_door: page-token
+transcribed: 2026-08-26
+---
+[   0.0s] If you are sick of paying way too much in taxes, click the link down below.
+[   3.6s] I'm in all the two-hour webinar.
+[   4.8s] I've helped thousands of people save money on their taxes.
+[   7.4s] In two hours, I'm going to teach you to do the exact same thing.
+[   9.6s] Click the link down below.
+[  10.6s] Can't wait to see you there.

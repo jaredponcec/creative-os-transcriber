@@ -1,0 +1,14 @@
+ad_name: 5.13 | V4 (Tech Employee Callout)
+video_id: 1306814357457052
+status: CAMPAIGN_PAUSED
+duration_seconds: 22.2
+source_door: page-token
+transcribed: 2026-08-26
+---
+[   0.0s] If you are a tech employee, you are paying way too much in taxes.
+[   3.7s] Billionaires will pay a 2% effective tax rate, while meanwhile you're paying a 40% effective tax rate.
+[   8.6s] The crazy thing is it's maybe two or three hours of sitting down, educating yourself,
+[  12.3s] so you can start saving money on taxes. I know that sounds complicated,
+[  15.2s] but I'm going to break it all down in the two hour well-treated training.
+[  17.8s] If you click the link down below, you can reserve your spot.
+[  19.7s] I can't wait to see you there. I promise it's worth it.

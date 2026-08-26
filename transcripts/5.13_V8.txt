@@ -1,0 +1,13 @@
+ad_name: 5.13 | V8
+video_id: 1016404814380763
+status: PAUSED
+duration_seconds: 23.5
+source_door: page-token
+transcribed: 2026-08-26
+---
+[   0.0s] You are likely in the highest tax bracket in America and you don't know how to mitigate your taxes.
+[   5.0s] Billionaires will pay a 2% effective tax rate while meanwhile you're paying a 40%
+[   9.0s] effective tax rate. The crazy thing is it's maybe two or three hours of sitting down
+[  12.8s] educating yourself so you can start saving money on taxes. I know that sounds complicated I'm
+[  16.6s] going to break it all down into two hour wealth rewritten training. You click the
+[  19.6s] link down below you can reserve your spot I can't wait to see you there I promise it's worth it.

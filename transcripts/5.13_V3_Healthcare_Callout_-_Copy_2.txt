@@ -1,0 +1,14 @@
+ad_name: 5.13 | V3 (Healthcare Callout) - Copy 2
+video_id: 1004184222065275
+status: CAMPAIGN_PAUSED
+duration_seconds: 21.2
+source_door: page-token
+transcribed: 2026-08-26
+---
+[   0.0s] If you are a healthcare worker, you are paying way too much in taxes.
+[   3.7s] W2 earners are taught that they can't save money on their taxes and that's just not true.
+[   7.6s] The crazy thing is it's maybe two or three hours of sitting down educating yourself
+[  11.3s] so you can start saving money on taxes. I know that sounds complicated,
+[  14.2s] but I'm gonna break it all down into two-hour, well-treated training.
+[  16.9s] You click the link down below, you can reserve your spot,
+[  18.7s] can't wait to see you there. I promise it's worth it.

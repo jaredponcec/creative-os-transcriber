@@ -1,0 +1,34 @@
+ad_name: 8.25 | 2 Braidens
+video_id: 1352056743576054
+status: ACTIVE
+duration_seconds: 56.9
+source_door: page-token
+transcribed: 2026-08-26
+---
+[   0.0s] High income earners, which one are you?
+[   2.7s] I make $300,000 a year in taxes.
+[   5.5s] I pay $94,000 a year to the IRS.
+[   8.8s] I make $300,000 a year as well,
+[  11.0s] but taxes I only paid $6,000.
+[  13.6s] That other $88,000 I paid to the IRS, completely gone.
+[  17.2s] That money I kept, I used it to buy equipment
+[  19.2s] that equipment pays me every single month
+[  21.0s] and it eliminated my taxes.
+[  23.0s] My 401k and retirement accounts go up
+[  24.7s] maybe 6% every single year.
+[  26.2s] I check it and it doesn't even feel like it goes up.
+[  28.4s] My retirement account, I'm diversified
+[  29.9s] across public and private markets
+[  31.8s] and I think I'm gonna get somewhere
+[  32.8s] between 15 and 20% every single year.
+[  35.2s] I did the math.
+[  36.0s] I'll have about $1.2 million a retirement
+[  38.1s] and I'll run out of money by the time I'm 78.
+[  40.7s] My retirement math, I'm already at about $8 million saved.
+[  43.4s] I think I could stop working today.
+[  45.2s] How do you even know about this?
+[  46.8s] Honestly, it was just a two hour training
+[  48.3s] and I implemented it myself.
+[  49.8s] Two hour workshop, only 200 seats available.
+[  52.0s] Same income, completely different April next year.
+[  55.1s] The link to that workshop is below.
