@@ -26,7 +26,7 @@ jobs:
         env:
           META_TOKEN: ${{ secrets.META_TOKEN }}
           AD_ACCOUNT: act_1505073096814143
-          MAX_PER_RUN: "25"
+          MAX_PER_RUN: "200"
         run: python transcribe.py
 
       - name: Commit transcripts
