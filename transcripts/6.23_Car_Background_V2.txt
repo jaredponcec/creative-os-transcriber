@@ -1,0 +1,16 @@
+ad_name: 6.23 | Car Background V2
+video_id: 1814652179717124
+status: CAMPAIGN_PAUSED
+duration_seconds: 37.9
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you make between $200,000 and $2 million a year, you are probably way overpaying on taxes.
+[   4.6s] You follow the blueprint we've all been talking. Get a job, get a 401k, maybe buy some real estate
+[   8.6s] and hope and pray that you can retire. While millionaires and billionaires are paying 5%
+[  12.4s] taxes, you're paying 35 or 40% taxes. We all know this is an issue, but for some reason we
+[  17.2s] just don't think we can do it. I'm here to tell you you can. I've helped thousands of people,
+[  21.4s] W2 wage earners from tech to healthcare to business owners, save money on their taxes
+[  25.4s] and get access to investments that change their life. If you want to learn how,
+[  29.1s] click the link down below. Join the well through written training where we deep dive
+[  32.5s] how to do exactly that. Can't wait to see you there.

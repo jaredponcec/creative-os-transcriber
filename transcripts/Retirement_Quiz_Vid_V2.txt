@@ -1,0 +1,19 @@
+ad_name: Retirement Quiz | Vid V2
+video_id: 34582247151422649
+status: CAMPAIGN_PAUSED
+duration_seconds: 52.0
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Your retirement savings are losing money as we speak. The Fed just printed another trillion
+[   4.5s] dollars and their target rate of 2% inflation is not real. You've been taught to invest in a 401k,
+[  10.6s] maybe get a little bit of real estate and it's going to be enough for your retirement. But the
+[  13.7s] truth is in a modern financial landscape, the rules have changed. The internet changed the
+[  18.0s] world of finance. Companies are going public later. Money is being made before they go
+[  21.8s] public inside of things like venture capital and private equity. You've heard about it,
+[  25.0s] but you've never invested in it. What kills me is you're doing everything right. You're
+[  28.6s] making great money. Maybe we're making 100 grand, 200 grand, $300,000 inside your household. But
+[  33.4s] are you on track for retirement or are you decades behind? Most high earners have no idea and this
+[  39.3s] two-minute quiz is going to solve exactly that. No judgment, just clarity to show you exactly
+[  43.9s] where you are in the path and what the next step is you need to take. So click the link
+[  47.7s] down below and answer the questions and get a personalized roadmap on what your next step is.

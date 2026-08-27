@@ -1,0 +1,26 @@
+ad_name: SDIRA Vid 1
+video_id: 1262276765289879
+status: CAMPAIGN_PAUSED
+duration_seconds: 81.0
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] One of the lowest-hanging wealth-building tips that people never use is a self-directed IRA.
+[   5.6s] We have all been taught to put our money into a traditional 401k and IRA,
+[   9.6s] buy stocks and bonds, and get somewhere between a four and a seven percent return.
+[  13.8s] The last couple years, you don't even beat inflation with a four to seven percent return,
+[  17.5s] but what's crazy is the actual IRS code around a 401k and an IRA does not state that you have
+[  23.0s] to buy stocks and bonds. It is a tax vehicle where you can make investments and delay
+[  28.1s] when you pay those taxes. Now all these massive companies, your employers, the vanguards,
+[  31.8s] fidelities, Charles Schwab's, all these companies funnel you to stocks and bonds because it makes
+[  35.7s] their job so much easier, but it's limiting what you can invest in. You can do fix and flips,
+[  39.7s] you can do real estate, private equity, venture capital, you can do cryptocurrency,
+[  43.6s] you could do almost any investment, diversify across a lot of it. Yes, keep some stocks
+[  48.2s] on bonds, but when you start putting money in things like real estate, your IRA and 401k
+[  52.6s] stops earning four percent return. Now you can go get eight, 10, 12, 14 percent returns,
+[  56.7s] which makes it so you can actually retire with a lot more money inside that account.
+[  60.4s] Click the link down below. I recorded like a 12 or 15 minute video that you can watch on exactly
+[  65.0s] how to do this. What's the difference between your 401k or IRA, something like Vanguard,
+[  68.6s] Charles Schwab, Fidelity, and a true self-directed IRA or 401k? Inside that video,
+[  73.8s] I will tell you the exact company that I personally use for my self-directed IRA because
+[  77.4s] they're phenomenal to work with. Click the link down below and I'll see you in there.

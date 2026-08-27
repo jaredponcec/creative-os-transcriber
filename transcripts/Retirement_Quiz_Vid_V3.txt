@@ -1,0 +1,19 @@
+ad_name: Retirement Quiz | Vid V3
+video_id: 1676091726718870
+status: CAMPAIGN_PAUSED
+duration_seconds: 49.6
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Take this two-minute quiz and it will tell you whether you're on track or off track for retirement.
+[   5.2s] Everyone's dream retirement looks a little bit different and no one knows whether they're actually
+[   9.0s] on track or not. And the crazy thing is inflation the last five years has completely changed the
+[  13.4s] number you thought you had to have. You're likely saving, putting money in your 401k,
+[  17.3s] maybe you're on some real estate, but are you on track or are you decades behind? This
+[  21.1s] quiz is going to let you know. It's going to assess your financial literacy, your income,
+[  25.3s] savings, debt, tax efficiency, and investments. And the awesome part at the end is it gives you a
+[  30.2s] personalized roadmap of what the next steps are that you need to take to be able to optimize,
+[  34.3s] to be able to get to the retirement that you dream of. I've helped thousands of people get
+[  38.2s] clarity on where they stand and what the next steps are they need to do to get back on track.
+[  42.7s] Is it tax mitigation is an investment and I want to help you do the same thing?
+[  46.1s] Click the link down below, take your quiz, and get your results instantly.

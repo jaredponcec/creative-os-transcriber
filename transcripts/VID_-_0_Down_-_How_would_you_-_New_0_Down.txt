@@ -1,0 +1,30 @@
+ad_name: VID - 0% Down - How would you - New 0% Down
+video_id: 559387807170362
+status: CAMPAIGN_PAUSED
+duration_seconds: 56.1
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] You need to shop your interest rate before you purchase or refinance.
+[   3.2s] Most people don't know how interest rates work in mortgage and it's actually
+[   5.8s] pretty mind blowing.
+[   6.7s] Every single company has a different fee structure on the back end that you can
+[  10.3s] never see.
+[  10.8s] So you can get drastically different rates from lender to lender.
+[  13.3s] That's why brokers are getting so popular.
+[  15.1s] A study came out with Humda data, government sponsored data,
+[  18.4s] that it is over $9,200 cheaper in your first year to use a broker that
+[  22.6s] will shop for you than a traditional lender that most people use.
+[  25.5s] I built a community on social media of millions of people around financial
+[  28.7s] literacy. I also own a mortgage company that's based on the same principles,
+[  32.0s] education and great value.
+[  33.2s] So before you finish your purchase or refinance or if you think about doing this
+[  36.2s] year, shop your interest rate. We'll do it for you. Okay.
+[  38.2s] Click the link down below. If we can beat your interest rate,
+[  40.5s] we would love to work with you. If we can't, no harm, no foul,
+[  42.9s] we'll send you on your way.
+[  43.8s] I just want you to get the absolute best deal,
+[  45.8s] not be forced into a company with massive fees on the back end that you
+[  48.5s] can't even see and pay way more for that interest rate than you actually
+[  51.3s] should click the link down below,
+[  52.7s] let us shop it for you and hopefully we can save you thousands of dollars.

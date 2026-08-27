@@ -1,0 +1,38 @@
+ad_name: Seattle | Vid 1 | 6.4 - Copy
+video_id: 1224326309660211
+status: CAMPAIGN_PAUSED
+duration_seconds: 75.4
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Seattle, if you are making six figures or more, but your wealth is not growing the way
+[   3.5s] you think it should, this is for you.
+[   5.2s] A few years ago, I was sitting across a table from someone who had made a hundred million
+[   8.4s] dollars and I asked him a question, what do you think separates the wealthy from those
+[  12.3s] that are not?
+[  13.3s] And his answer was really simple, the wealthy get in the rooms that matter early.
+[  17.8s] That is always stuck with me and that's exactly why I'm inviting you to one of
+[  21.3s] those rooms today.
+[  22.5s] I am hosting a one day wealth event in your city where we are going to go over
+[  26.8s] everything that it takes to grow real wealth.
+[  29.5s] How do you mitigate your taxes?
+[  30.9s] Get your effective tax rate down to five or ten percent.
+[  33.2s] Then use that money you saved to go get access to better investments.
+[  36.7s] Stuff like venture capital, private equity or large scale real estate.
+[  39.3s] We are going to keep this small.
+[  40.6s] I don't want more than a hundred or a hundred and fifty people in the room because I want
+[  43.5s] the right people in the room so we can have a real conversation about what it means
+[  47.4s] to grow generational wealth.
+[  49.4s] Far too many people just accept paying taxes thinking they have to pay twenty five, thirty
+[  53.4s] five or even forty five percent taxes and that is not true.
+[  57.0s] Imagine if I could save you half your tax bill.
+[  58.5s] How much more would you have to invest?
+[  60.1s] Live your life.
+[  61.1s] Do things that you wanted to.
+[  62.1s] You already made the money.
+[  63.1s] Just keep more of that money that you've already made.
+[  65.0s] This is not for beginners.
+[  66.2s] This is for people that are earning good money but are ready to grow their wealth at an
+[  70.2s] even faster clip.
+[  71.2s] If that's you, click the link down below, register for your spot and I would love
+[  74.5s] to see you there.

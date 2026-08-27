@@ -1,0 +1,16 @@
+ad_name: 6.1 | Vid 3
+video_id: 963930262926567
+status: ADSET_PAUSED
+duration_seconds: 37.0
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] There are over 15 million Americans making over $200,000 a year and the vast majority of them
+[   5.2s] paying 30, 35, 40% of every single dollar to the United States government and they don't have to be.
+[  10.2s] And here's what no one talks about. The 400 wealthiest people in America that make way more than
+[  14.5s] you have an effective tax rate of like five or six percent. They're living in the same country
+[  18.4s] using the same tax code but a completely different outcome because they've been educated and they're
+[  22.6s] smart about their tax mitigation. That is why I'm holding a two-hour webinar to teach
+[  26.1s] you how I did it. My effective tax rate is under five percent because I utilize these strategies.
+[  30.5s] So two hours, we're going to deep dive it. If you want to learn how to mitigate your taxes,
+[  34.2s] the high income earner, click the link down below and I'd love to see you there.

@@ -1,0 +1,15 @@
+ad_name: 6.1 | Vid 2
+video_id: 1443995480814872
+status: CAMPAIGN_PAUSED
+duration_seconds: 31.8
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you are a doctor, dentist, nurse anything in healthcare, your largest expense is not your
+[   4.2s] mortgage, it's not your student loans, it's likely your taxes and it doesn't have to be.
+[   7.9s] There's no reason business owners can go pay 5% taxes when you pay 30 to 40% taxes. The difference
+[  13.4s] is they were taught how you were not. That is why I'm holding a two-hour training called Wealth
+[  17.4s] Rewritten where we deep dive tax mitigation that works for healthcare professionals W2
+[  21.8s] wage earners so you can start mitigating your taxes and pay what you're supposed to pay
+[  25.3s] but not anything more. If you click the link down below you can register and I can't wait
+[  28.3s] to see there.

@@ -1,0 +1,20 @@
+ad_name: 6.1 | Vid 5 - Copy
+video_id: 3139888749543047
+status: ADSET_PAUSED
+duration_seconds: 49.0
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you are a W2 worker in software tech, why is it that the founders and investors pay so much
+[   4.5s] less in taxes than you? It honestly doesn't make sense. The reason is because you haven't been
+[   8.2s] taught. There is no reason W2 wage earners can't mitigate their taxes. They just haven't been taught
+[  12.3s] the same way business people have. You have the same opportunities. You just need someone to
+[  16.2s] teach you how and introduce you to who so you can begin to implement it. Stop paying 25, 30,
+[  20.6s] 40 percent in taxes every single year. Start implementing the strategies the IRS is telling
+[  24.8s] you to implement. When the IRS wants a behavior done, they put it in the tax code.
+[  28.2s] It's a book of yeses, not a book of noes. They want you to invest in charity, you write it off.
+[  32.0s] They want you to invest in businesses, you write it off. You just have to figure out as a W2
+[  35.2s] agent how to invest to get it off your taxes. I'm training Hal in a two hour training called
+[  39.3s] Wealth Rewritten. It's specifically for people inside of tech and software who want to
+[  42.7s] mitigate their taxes and start investing more of every dollar. Click the link down below
+[  46.1s] and register. We only have 200 people in. I can't wait to see you there.

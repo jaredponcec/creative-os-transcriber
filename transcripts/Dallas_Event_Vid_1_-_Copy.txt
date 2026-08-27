@@ -1,0 +1,27 @@
+ad_name: Dallas Event | Vid 1 - Copy
+video_id: 1776218877111588
+status: CAMPAIGN_PAUSED
+duration_seconds: 80.3
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you're in Dallas making decent money but you think you should be further ahead, this is for you.
+[   4.4s] A few years ago I was sitting across from a guy that made over 100 million dollars and I asked him
+[   8.5s] one question, what do you think the difference is between the people that live an ordinary life
+[  12.6s] and the people that become worth hundreds of millions of dollars and he said one thing,
+[  15.9s] they get in the right rooms early. Honestly that stuck with me and that's why I'm inviting you
+[  19.9s] to that room in Dallas. I'm holding a one-day event where successful people can get in the
+[  24.4s] right room. We are going to keep this group small, okay? I'm going to stop running this
+[  27.2s] video when we get about 50 to 60 people because I want this to be the right group of people with
+[  31.1s] the right room or we can deep dive into everything. How do you invest? How do you get access to private
+[  35.0s] market deals like venture capital, private equity, large-scale real estate? How do you find the deal
+[  38.7s] flow? What kind of returns can you expect? My favorite part, how do you mitigate your taxes
+[  42.2s] like the ultra elite do? So many of us just accept paying a 20-30-40% tax rate when the
+[  47.3s] politicians and billionaires are paying like 0%. You can mitigate your taxes. Whether you're
+[  52.2s] self-employed or W-2, you can mitigate your taxes through proper investing and strategy. You
+[  57.0s] have just not been taught how. Imagine if I could save you 30, 40, $50,000 in taxes instead of giving
+[  61.9s] it to the IRS. You could invest it and actually make money and grow your net worth. This isn't
+[  66.4s] for beginners. If you have capital, if you're investor, if you're a high wager, a business
+[  69.5s] owner, whatever it is and you feel like you can grow your money faster or you can
+[  73.4s] mitigate your taxes, click the link down below. Register for the event on August 23rd. We
+[  78.1s] will be there and I cannot wait to see you.

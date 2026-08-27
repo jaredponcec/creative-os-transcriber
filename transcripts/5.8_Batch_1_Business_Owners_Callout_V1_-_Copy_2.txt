@@ -1,0 +1,25 @@
+ad_name: 5.8 | Batch 1 | Business Owners Callout V1 - Copy 2
+video_id: 1308464017549429
+status: CAMPAIGN_PAUSED
+duration_seconds: 74.9
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you are a business owner doing over $300,000 a year, you need to hear this.
+[   4.9s] You took the risk. You built the business. You did the hardest part.
+[   8.3s] Most businesses fail by now. Yours didn't. But you're getting hosed on taxes.
+[  12.4s] Most business owners pay 30, 35, 40% taxes when they become successful because of everything you
+[  17.1s] already know. You have self-employment tax. You're likely trying to mitigate it through
+[  20.6s] an S-Corp or something like that. But those tax strategies are not enough when you start
+[  24.7s] making that kind of income. You built your business to have freedom. That's different
+[  28.5s] for everyone. Sometimes that's financial freedom, time freedom, relationship freedom,
+[  31.9s] whatever it is. But the taxes you are paying is stopping you from reaching them. You've got to
+[  36.7s] figure out how do you take your tax bracket from 30, 35, 40% down to 5 or 10% like everyone says
+[  42.0s] you can. You see other business owners, billionaires doing it, but why can't you? The truth is you
+[  46.6s] have all the same opportunities they have. No one's ever sat you down and taught you how.
+[  51.0s] That is why I'm holding a 90-minute webinar where we are going to go through exactly this,
+[  54.9s] how do you actually set up your business and your life the most optimal way to mitigate your
+[  58.6s] taxes? Keep more of every dollar that you're already earning so you can go invest in venture
+[  62.6s] capital, private equity, large-scale real estate to create real wealth outside your business.
+[  67.5s] If that sounds like something that you want to do, click the link down below. We left 200
+[  71.6s] people in. We are going to deep dive taxes and I would love to see you there.

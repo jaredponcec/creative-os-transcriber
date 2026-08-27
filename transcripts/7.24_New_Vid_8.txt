@@ -1,0 +1,24 @@
+ad_name: 7.24 | New Vid 8
+video_id: 1285974702866483
+status: ADSET_PAUSED
+duration_seconds: 73.3
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you are making over $250,000 a year, you are some of the most taxed individuals in the nation
+[   4.8s] and you are not alone. When you are a highwayjourner, you end up paying so much in taxes that you're
+[   9.4s] just giving you the IRS when you really don't have to if you were to apply the IRS code.
+[  12.7s] What if you could save half of your taxes and go invest it? If you paid $50,000 in taxes,
+[  17.0s] invest $25,000. If you paid $100,000, invest $50,000. I dare you to go grab a compound
+[  21.1s] interest calculator on Google and just start playing around with the numbers. It turns into
+[  24.4s] tens of millions of dollars. Simultaneously, you're assuming you're investing in a stock
+[  29.0s] market getting a 6% or 8% return. What if you go get a 12%, 14%, 16% return because you found out
+[  34.8s] how to access things like private equity, venture capital, large-scale real estate? Combining tax
+[  39.5s] savings while investing in private markets is the path to generational wealth. That's why
+[  44.2s] I'm holding a paid webinar. It is my mission to take everyday people and teach them how to
+[  48.3s] mitigate their taxes and get access to private market deals. It completely changed my life.
+[  52.7s] When I cut my taxes in half and was able to invest that money in private market deals,
+[  56.5s] I started adding millions and tens of millions to my net worth by doing those two things and
+[  60.8s] I'm going to break it down into a 90-minute webinar. I'm holding two of these webinars in
+[  64.4s] the next week. If you click the link down below, you can register for your seat where for 90 minutes
+[  68.4s] I'll deep dive into everything you need to know so that you can finally create generational wealth.

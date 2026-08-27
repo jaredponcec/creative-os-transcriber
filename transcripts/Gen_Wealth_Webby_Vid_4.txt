@@ -1,0 +1,18 @@
+ad_name: Gen Wealth Webby | Vid 4
+video_id: 1251754589681377
+status: CAMPAIGN_PAUSED
+duration_seconds: 45.1
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] These are the three ways to build generational wealth. I wasn't handed money, but I was taught
+[   4.6s] how to grow and manage money. Now that I've become financially free, my mission has shifted,
+[   9.0s] and now it's about teaching my family how to keep it, grow it, and manage that money. That's
+[  12.8s] what we're going to be going over in this free training. We're going to do a deep dive in how
+[  16.3s] to grow generational wealth. How can the everyday person build that wealth? How do they educate
+[  20.6s] their children on money at every single age? And lastly, how do you pass it on in the most
+[  25.9s] tax-efficient ways so you're not giving half of it to the government? Your kids don't have to be
+[  30.0s] financial experts, but they do need guidance on how to manage and grow money because they're not
+[  35.0s] going to learn it anywhere else, and that falls on you. If you want your kids to be confident and
+[  40.0s] capable with money decisions, click the link down below, register to save your C, and we'll
+[  44.2s] see you there.

@@ -1,0 +1,27 @@
+ad_name: DC Event | Vid 1
+video_id: 2387153445045858
+status: WITH_ISSUES
+duration_seconds: 76.1
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] DC, if you're making good money but your net worth isn't growing the way you think it should be,
+[   4.6s] this is for you. A few years ago, I was sitting across from a guy that made over 100 million
+[   8.8s] dollars and I asked him one question. What do you think the difference is between the people that
+[  12.5s] live an ordinary life and the people that become worth hundreds of millions of dollars? And he
+[  16.0s] said one thing, they get in the right rooms early. Honestly, that stuck with me and that's
+[  20.3s] why I'm inviting you to that room here in DC. I'm holding a one-day event where successful
+[  25.0s] people can get in the right room. We are going to keep this group small because I want
+[  27.8s] this to be the right group of people with the right room or we can deep dive into everything.
+[  31.4s] How do you invest? How do you get access to private market deals like venture capital,
+[  34.4s] private equity, large-scale real estate? How do you find the deal flow? What kind of returns
+[  37.8s] can you expect? My favorite part, how do you mitigate your taxes like the ultra elite do?
+[  41.7s] So many of us just accept paying a 20-30-40% tax rate when the politicians and billionaires
+[  46.6s] are paying like 0%. You can mitigate your taxes. Whether you're self-employed or W-2,
+[  51.8s] you can mitigate your taxes through proper investing and strategy. You have just
+[  55.4s] not been taught how. Imagine if I could save you $30, $40, $50,000 in tax,
+[  59.5s] instead of giving it to the IRS, you could invest it and actually make money and grow
+[  63.3s] your net worth. This isn't for beginners. If you have capital, if you're an investor,
+[  66.5s] if you're a high wager, a business owner, whatever it is and you feel like you can grow
+[  70.2s] your money faster or you can mitigate your taxes, click the link down below,
+[  73.6s] register for the event and I can't wait to see you.

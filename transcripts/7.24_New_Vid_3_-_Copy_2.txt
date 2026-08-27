@@ -1,0 +1,23 @@
+ad_name: 7.24 | New Vid 3 - Copy 2
+video_id: 1234542121321716
+status: ADSET_PAUSED
+duration_seconds: 68.8
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] We just hit an all-time high of consumer debt in America while simultaneously hitting an all-time
+[   5.7s] high an amount of equity in homes inside of America and that should never happen. The reason is though
+[  11.1s] is because so many people are scared to tap into that equity of their home to pay off their consumer
+[  15.5s] debt because they have really low interest rates on their home and they're scared to affect
+[  19.0s] that. But if you have consumer debt that you are paying on you need to hear me out.
+[  23.0s] Stop thinking about the interest rate in your home that's the wrong way to think about it
+[  26.4s] and start thinking about the total payments that you pay every month and how to mitigate those as
+[  30.8s] far as you can. There are a lot of options out there to bring that down. If you're paying $1,000
+[  34.8s] in credit card payments and $2,000 on your mortgage every month what if we could take
+[  38.2s] those total payments combine them and bring it down to $2,500 and save you $6,000 a year in
+[  43.0s] payments? Not only that your credit card interest rate is probably 22, 25, 27% and now we can
+[  47.9s] get it down to 6, 7, 8% and it will save you tens of thousands of dollars. There is no reason
+[  53.8s] to be struggling every single month for a lot of people if they have equity inside their home.
+[  57.5s] Click the link down below we will run an analysis for you on all of your debts and see if there's
+[  62.2s] any opportunity to save you money every single month so you can finally get ahead financially.
+[  66.2s] Click the link down below and we would love to help you.

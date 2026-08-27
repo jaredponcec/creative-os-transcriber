@@ -1,0 +1,30 @@
+ad_name: 5.8 | Batch 1 | Tech Callout V1 - Copy
+video_id: 2547285092391599
+status: ADSET_PAUSED
+duration_seconds: 94.5
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you're in software, if you're a data scientist, if you're a project manager, if you're an engineer
+[   4.4s] and you are pulling a high W2, you need to hear this. You have optimized your career,
+[   8.6s] you're earning good money, you've negotiated good comp, you probably have stock options and
+[  12.3s] everything else, but you are paying a ton in taxes. Your largest bill every single year is
+[  17.3s] not your mortgage, it's not your car, it's not any of that, it is likely your taxes. You're
+[  20.8s] paying 35, 40, 45% of every dollar you make to the IRS and it doesn't have to be that way.
+[  26.1s] You spent years mastering your craft but no one has ever sat you down and told you
+[  29.6s] here's how to keep more of every dollar that you're earning. You were always told to max out your 401k,
+[  34.5s] maybe do a backdoor Roth IRA, get as much stock options as you can, but when you do that you are
+[  39.3s] paying a ton in taxes. The founders you're working for, the VCs, the executive, all of them are paying
+[  44.2s] like 5 to 10% in taxes while you're absolutely getting hosed. Here's the thing, the IRS literally
+[  49.4s] wrote the playbook telling you how to do this. It's the tax code, okay? If you understand how
+[  53.6s] to invest the way the IRS actually wants you to, as a W2 wage earner, you can mitigate
+[  58.6s] almost all of your income. I have helped thousands of people do exactly this. My personal effective
+[  63.4s] tax rate has been under 10% for years and I help other people accomplish the same thing. It doesn't
+[  67.4s] matter if they're business owners, W2, tech, healthcare, it does not matter, you can do it.
+[  72.1s] That's why I'm holding a 90-minute webinar where we're going to break all of this down,
+[  75.2s] okay? We're going to talk through the structure. How do you actually do it?
+[  77.6s] Tax mitigation, investments, venture capital, private equity, everything that you need so
+[  81.2s] we can save more of every dollar that we make and then the money we save we can go invest
+[  85.1s] it in the most optimal way possible. If that sounds like something that you need,
+[  88.7s] click the link down below. We only let 200 people in every single time into this webinar
+[  92.9s] and I would love to see you there.

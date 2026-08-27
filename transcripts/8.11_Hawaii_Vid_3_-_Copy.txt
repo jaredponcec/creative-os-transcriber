@@ -1,0 +1,25 @@
+ad_name: 8.11 | Hawaii Vid 3 - Copy
+video_id: 1009914955021080
+status: CAMPAIGN_PAUSED
+duration_seconds: 75.1
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you make over $200,000 a year and gave almost half of it to the IRS,
+[   4.4s] you are working way too hard to get hit that hard by taxes. Everyone that makes over $200,000
+[   9.8s] pays more taxes proportionally than almost anyone else in the United States. And it's not
+[  13.9s] because they have to, it's because they have not educated themselves how to stop that.
+[  17.7s] I still remember the first year I made over $250,000, I got wrecked by taxes,
+[  21.5s] and so I leaned in heavy into my network. I was blessed to be almost seven feet tall,
+[  25.0s] play college basketball, and have a network of billionaires that I could tap into.
+[  28.3s] They taught me how do I invest for tax mitigation? What entity structure do I need? What documentation
+[  33.6s] and foundational setup do I need to mitigate my taxes? All legal, all repeatable, but it took my
+[  38.8s] personal effective tax rate down below 5%. It's not anything special. It's not because I'm a business
+[  43.8s] owner. If you are W2, if you are a business owner, and if you make over $200,000 a year,
+[  47.8s] you can mitigate your taxes and you don't have to pay 20, 30, 40% to the government.
+[  52.7s] The tax code is there for a reason. It's to incentivize investment. And when you invest
+[  56.4s] properly, you can mitigate your taxes and your dollar can stay in your pocket so you can invest it,
+[  61.0s] so you can grow exponential wealth. If you want to deep dive into taxes so that you can lower
+[  65.3s] your taxable income, click the link down below, register for your seat, and I will give you
+[  69.1s] the entire thing in that hour presentation. We only let 200 people in the room,
+[  73.0s] so quickly register and I'll see you in there.

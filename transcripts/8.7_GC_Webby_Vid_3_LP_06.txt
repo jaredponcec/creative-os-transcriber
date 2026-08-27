@@ -1,0 +1,29 @@
+ad_name: 8.7 | GC Webby Vid 3 | LP 06
+video_id: 1616713066637552
+status: ADSET_PAUSED
+duration_seconds: 95.2
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] How much money did you pay in taxes last year? Think about it for a second.
+[   3.6s] I have good news and I have bad news. The bad news is that number wasn't by accident.
+[   7.9s] The reason you paid that much in taxes is because of what you didn't do.
+[  11.7s] The strategies you didn't implement, the investments you didn't make, and the truth is
+[  15.8s] if you don't do anything before December 31st this year, it's going to be the
+[  19.5s] exact same thing next April 15th. The good news is it doesn't have to be that way.
+[  24.4s] The wealthy have been using the IRS tax code the exact way it was designed to be.
+[  29.0s] The IRS did not put hundreds of different strategies and credits and deductions and
+[  33.3s] investments in there by accident. They put it in there to try to incentivize the behavior of the
+[  37.7s] wealthy saying we will let you write this off your taxes if you invest the way that we need you to.
+[  43.4s] It does not matter if you're a business owner W-2 1099, the tax game can be played by everyone.
+[  49.0s] I found this out the hard way. Can I still remember the first time I crossed six figures in
+[  52.2s] income? I had to pay an $87,000 tax bill that year and it completely wiped me out.
+[  56.5s] I spent the next two years of my life getting in front of every billionaire and millionaire I
+[  60.9s] possibly could and asked him the same question. How do I get my effective tax rate down? After
+[  64.7s] two years of honestly obsessing over it, I've never paid over an 10% effective tax rate since.
+[  69.3s] I teach that exact training, everything that I learned in two years on a wealth rewritten
+[  73.4s] training. Can I do this every single week? I let 200 people in where we deep dive. How do
+[  77.7s] I save money on my taxes and rather than send it to the IRS, I invested the way the IRS
+[  82.2s] wants me to so the wealth stays in my world and I can create generational wealth. If that's
+[  87.3s] something you want to learn, click the link down below. We've got 200 people in every single week
+[  91.2s] and I'd love to see you there.

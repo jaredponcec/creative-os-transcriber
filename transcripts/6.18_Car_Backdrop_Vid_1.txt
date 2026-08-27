@@ -1,0 +1,20 @@
+ad_name: 6.18 | Car Backdrop Vid 1
+video_id: 999086296441294
+status: ADSET_PAUSED
+duration_seconds: 52.1
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you make between $200,000 and $2 million a year, you are probably way overpaying on taxes.
+[   4.6s] You follow the blueprint we've all been talking, get a job, get a 401k, maybe buy some real estate,
+[   8.6s] and hope and pray that you can retire. The internet changed the way finances work,
+[  12.3s] and you have to be more intentional in what you do. You can mitigate your taxes the same way the
+[  16.6s] billionaires do. While millionaires and billionaires are paying 5% taxes, you're paying 35% or 40%
+[  21.7s] taxes. We all know this is an issue, but for some reason we just don't think we can do it.
+[  25.8s] I'm here to tell you you can. I've helped thousands of people, W2 wage earners,
+[  29.8s] from tech to health care to business owners, save money on their taxes and get access to
+[  33.4s] investments that change their life. If you want to learn how, click the link down below,
+[  37.6s] join the well-threatened training where we deep dive how to do exactly that.
+[  41.0s] Invest in a way that actually saves money on your taxes, allows you to take that money
+[  44.7s] and go invest in venture capital and private equity so you can create generational wealth.
+[  48.5s] Click the link down below. We'll end 200 people in. Can't wait to see you there.

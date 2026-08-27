@@ -1,0 +1,23 @@
+ad_name: SD401k Vid V2
+video_id: 24031940819746416
+status: DISAPPROVED
+duration_seconds: 70.2
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] The traditional way of doing a 401k is broken. So many people just have their money in a 401k
+[   4.8s] and it's sitting inside of stocks and bonds. If that is you, that is not the most optimal way
+[   9.1s] to do your 401k. A self-directed 401k or self-directed IRA is a very powerful tool. Inside the self-directed
+[  16.0s] IRA and 401k world, there is this thing called a checkbook LLC. It is so powerful. Basically,
+[  20.8s] your self-directed IRA will own an LLC. You'll fund that LLC with the funds from your 401k.
+[  25.5s] So now you have an LLC with funds in it from your 401k. And now that LLC can go start investing and
+[  30.9s] stuff. You can buy cryptocurrency. You could do fix and flips. You could do tax liens. You could do
+[  35.0s] wholesaling. You could do so many different things inside your 401k. And all the money just flows
+[  39.4s] up to your 401k as tax deferred. It's amazing. The normal person, even if they're self-employed,
+[  43.2s] will just go stick with like a Vanguard, Fidelity, Charles Schwab, someone else. And it just
+[  46.4s] doesn't make sense. So if you want to learn more about checkbook LLCs and self-directed IRAs
+[  50.1s] and 401ks, click the link down below. I filmed like a 10 minute video walking through A to Z
+[  53.9s] exactly how to do it. So you can sexually understand what a checkbook LLC is, what investments you can
+[  58.4s] do, how to set it up, all that kind of stuff. And then also underneath that video, I give you the
+[  62.5s] contact of the person that I personally use to set up my self-directed IRA and my checkbook LLC.
+[  67.3s] So click the link down below and hopefully that's helpful.

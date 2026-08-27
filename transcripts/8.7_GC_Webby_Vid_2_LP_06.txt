@@ -1,0 +1,29 @@
+ad_name: 8.7 | GC Webby Vid 2 | LP 06
+video_id: 1679585206482542
+status: ADSET_PAUSED
+duration_seconds: 96.6
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you paid over $50,000 in taxes last year, you are missing the entire playbook.
+[   6.2s] And I don't mean a write-off here or a deduction there, I mean fundamentally looking at taxes in
+[  10.7s] a different way. The billionaires and millionaires are using the tax code the way it was intended
+[  14.8s] to be used. K, the iris did not put hundreds of deductions and write-offs and investments and
+[  19.5s] tax incentives in there on accident. They put it in there to try to incentivize the wealthy
+[  24.0s] to invest the way they want you to. The wealthy figured this out a long time ago,
+[  27.8s] but the truth is, if you don't run in those circles, you don't know what it is.
+[  30.7s] K, it's not that your CPA is trying to hide something from you, they just legitimately
+[  34.0s] don't know how to do it. Their job is to take past financial information transactions that you
+[  39.4s] give them, put it down on a tax return and file it in a compliant and legal way. It is not
+[  44.5s] to go network with millionaires, billionaires, and family offices, find tax strategies that
+[  49.0s] work and implement them on your behalf. Tax strategy is a completely different discipline,
+[  53.2s] and the truth is, it does not matter if your W2 business owners 1099 does not matter,
+[  57.4s] this is for everyone. I spent two years honestly obsessing on figuring out how to get this done.
+[  62.6s] I was sick of paying six-figure tax bills and decided it was time. After two years,
+[  67.0s] I got my effective tax rate below 10% and I've kept it there every single year since.
+[  71.3s] I've put everything that I learned over that two years into a two-hour training
+[  74.8s] called the Welfare and Training. We let 200 people in the room where we deep dive taxes
+[  79.3s] and investments. Instead of giving the IRS $50,000 or $100,000 every year, what if I could invest
+[  83.8s] that $50,000 to $100,000 a year, keep the money in my world, and grow well and do it in a tax
+[  88.5s] efficient way. If that's what you want to learn, click the link down below that 200 people in,
+[  92.5s] I'd love to see you there.

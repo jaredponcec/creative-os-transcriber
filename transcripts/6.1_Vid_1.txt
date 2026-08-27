@@ -1,0 +1,15 @@
+ad_name: 6.1 | Vid 1
+video_id: 1689577188911112
+status: CAMPAIGN_PAUSED
+duration_seconds: 30.4
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] High-income earners stop scrolling. The year is already halfway over and that matters more than
+[   3.9s] you think. If you want to mitigate your taxes, you have to get the strategies in place before
+[   7.9s] the fall of this year to actually be able to pull it off. You've got three, maybe four months to
+[  11.8s] educate yourself, be introduced to the people, and implement these strategies. This is Aqualan
+[  15.7s] holding a two-hour webinar to teach these exact strategies. How did I get my effective tax rate
+[  19.7s] and how do I help so many other people do the same thing? You click the link down below,
+[  22.7s] we'll deep dive all the strategies, investments, everything so you can get everything in place
+[  26.2s] for this year.

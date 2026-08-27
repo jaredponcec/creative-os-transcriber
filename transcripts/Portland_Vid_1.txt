@@ -1,0 +1,19 @@
+ad_name: Portland Vid 1
+video_id: 1417662569651846
+status: CAMPAIGN_PAUSED
+duration_seconds: 52.7
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you live in the Portland metro area, I'm going to hold a really small gathering for real estate
+[   4.0s] agents specifically to go over wealth creation and tax mitigation. I made my money inside a real
+[   9.1s] estate just like you, but what I was never taught is how to really mitigate my taxes as a real estate
+[  13.8s] professional and on top of that get access to private market deals stuff like venture capital
+[  18.2s] private equity and large-scale real estate. You have one of the greatest opportunities of
+[  22.3s] all time as a real estate professional, but no one's taught you. You can mitigate your taxes,
+[  25.8s] get your effective tax rate down to two, three, five, maybe 10%. Most of you are paying 20,
+[  30.7s] 30, 40% because of self-employment inside this industry and it's absolutely wrecking your finances.
+[  36.2s] My goal is that you walk away understanding how you can slash your taxes by 50%,
+[  40.8s] then teach you how to take that money that we save on taxes and go implement it in private
+[  45.0s] markets. This is 100% free only for the Portland area. If you're a real estate agent,
+[  49.4s] click the link down below, register. You don't want to miss it and I'll see you there.

@@ -1,0 +1,16 @@
+ad_name: Atlanta | Vid 2 | 5.4
+video_id: 1007861315111241
+status: CAMPAIGN_PAUSED
+duration_seconds: 39.6
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] I am coming to Atlanta on Saturday to do a wealth workshop. I travel the country doing these,
+[   4.6s] I love it, about once a month we do it. We try to get a room full of about 100, 150 people
+[  10.1s] who are hyper focused on growing their net worth. We do tax mitigation, private markets,
+[  14.2s] venture capital, private equity, how do you get access, liquidity, everything that you need to
+[  18.3s] really grow your net worth and I love doing it. If you want to come, we only let about 100,
+[  22.8s] 150 people in the room. If you'd like to be there, I want the right people in the room.
+[  26.7s] I want the right people that are ready and willing to learn. So if you click the link down below,
+[  31.6s] we'll give you a discount to make sure that the room's full to get 100 people in there,
+[  35.1s] the right people in there so we can really focus on it. So click the link down below and I'd love to see you there.

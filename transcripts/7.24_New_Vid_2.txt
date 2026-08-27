@@ -1,0 +1,23 @@
+ad_name: 7.24 | New Vid 2
+video_id: 1481675602984995
+status: ADSET_PAUSED
+duration_seconds: 66.5
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] We just hit an all-time high of consumer debt in America while simultaneously hitting an all-time
+[   5.7s] high in amount of equity in homes inside of America and that should never happen. Your equity
+[  10.9s] inside of your home could be the saving grace that you need to get back on your feet. So many
+[  15.4s] people are paying hundreds and sometimes thousands of dollars in consumer debt with interest rates
+[  19.4s] on things like boats and toys and personal loans and credit cards and their average
+[  22.5s] interest rates are 15, 20, 25 percent and they should never be doing it. If you have any
+[  27.1s] equity inside your home while simultaneously paying consumer debt you are not being smart with
+[  31.1s] your finances. For a lot of people it makes sense combining those and seeing how low they can get
+[  35.6s] their monthly payments. If your combined total debt payments are $4,000 and you can get it down
+[  40.2s] to $3,000, you're saving $12,000 a year on debt and it can get you back on your feet so you're
+[  45.6s] actually living below your means because you don't have to pay all of that credit card
+[  49.1s] debt every single month. There is no reason to be struggling every single month for a lot
+[  53.3s] of people if they have equity inside their home. Click the link down below. We will run an analysis
+[  57.5s] for you on all of your debts and see if there's any opportunity to save you money every single
+[  61.7s] month so you can finally get ahead financially. Click the link down below and we would love to
+[  65.6s] help you.

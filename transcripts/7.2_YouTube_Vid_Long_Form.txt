@@ -1,0 +1,249 @@
+ad_name: 7.2 | YouTube Vid Long Form
+video_id: 1241530491290291
+status: CAMPAIGN_PAUSED
+duration_seconds: 1044.7
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] We're in Salt Lake at a gross circle summit. We have almost a thousand investors out in Salt Lake
+[   4.9s] today to go over different tax and investment strategies. I've gone through over 25 different
+[   9.3s] tax investments. I've done them all. Everything that the Guru is talking about online to my CPA,
+[  13.7s] I've whittled it down to my favorite seven. Okay, if I was to choose seven tax deals that I think
+[  18.0s] every high earner should do, these are the sevens. We're going to deep dive them and how
+[  21.3s] they work so you can begin actually implementing them into your life. Let's go. For people
+[  26.1s] making real money, tax strategy creates liquidity, money that would have gone to the IRS gets to
+[  31.1s] stay in your pocket. But where the real unlock is is two fold first. What do you do with that money?
+[  36.1s] You've got to go invest that money. You're paying 30, 50, $100,000 a year to the IRS and you can
+[  40.6s] invest that every single year. It will turn into tens of millions of dollars. But part two,
+[  45.0s] your tax strategies can't just be a write-off. You need to be generating cash flow from the
+[  49.2s] investments and that needs to mitigate your taxes. I flew out to Utah to be able to
+[  53.5s] show you the last two strategies. By then, you're going to understand why I wanted to show this to
+[  57.4s] you. So let's dive in foundations first, then we'll get to the fun stuff.
+[  67.4s] Strategy one, I know is not what you came for, but we have to cover it. Okay, you've got to set
+[  71.2s] the foundation before we can go have fun with everything else. And strategy one is your
+[  75.3s] retirement account stacking. There is a specific order you need to do retirement counts in. Yes,
+[  79.9s] these are tax write-offs that can be extremely advantage. You have people like Peter Thiel
+[  83.7s] with billions of dollars in the Roth IRA, but you got to do it in the right order.
+[  87.1s] First is your 401k if and only if your employer has a match. The average return in the 401k is
+[  93.2s] between four and 7%. It's honestly a pretty poor performing asset, which is why if they
+[  97.4s] don't have a match, skip it. Okay, we'll talk through what to do after this. But if you
+[ 100.6s] do not have a match, skip it. If you do, take advantage of the match and then move on.
+[ 104.6s] The second account is an IRA. The reason I like an IRA better is you get all the same
+[ 109.1s] tax advantages that you do with the 401k, but an IRA is an individual retirement account.
+[ 113.4s] That's literally what it stands for. Individual retirement account means you get to control it.
+[ 117.1s] And so the average return on an IRA is a 9.9% return over the last 100 years if you go into
+[ 123.0s] the S&P 500. For myself employed people out there, you are usually going to do one of two
+[ 128.5s] things, either a solo 401k or a set by IRA. They're nearly identical. They're slightly
+[ 132.8s] different, but nearly identical. But this is going to allow you as a self employed person
+[ 136.9s] to get the same contribution maximums and everything that a 401k will bring.
+[ 140.6s] We could film an entire YouTube video on just this, but that's not the purpose of this, okay?
+[ 144.5s] You can self direct these things. You can get them into private markets. You can grow them
+[ 147.8s] really fast. Not the purpose of this video. If you want to do that, we've created other
+[ 151.2s] videos about it. We're going to move on to strategy two, which is the only account with
+[ 154.5s] the triple threat. Strategy two is also foundational and it's the HSA. Not enough people have
+[ 161.0s] an HSA. If you do have an HSA, I bet you money, it's just sitting inside a cash and that
+[ 165.6s] is not how you use it. The HSA is the only account that has the triple threat. You put it
+[ 170.1s] in tax-free means you get to write it off. It grows tax-free and you can withdraw tax-free
+[ 175.4s] so long as you withdraw for medical purposes. But there's a little hack here on how to use it
+[ 179.6s] properly. One, putting it in tax-free, obvious, put it in, write it off. Grow it tax-free,
+[ 184.6s] make sure it's invested. You can put it into stocks, bonds. You could even do venture capital
+[ 188.8s] private equity if you want to get crazy through self directing it, but make sure your HSA
+[ 192.7s] is invested. I'll go out on a limb here and actually say for most people, if you have the
+[ 196.7s] ability to pay cash-free health expenses, leave it invested and pay cash because number three,
+[ 201.8s] pulling it out tax-free is a huge loophole. You can pull it out tax-free so long as it's for
+[ 206.9s] health expenses, but it does not say when that health expense is. So let's say you're 20,
+[ 211.7s] 30, 40 years old and you have the ability to pay cash-free health expenses. When you're
+[ 215.8s] 50 or 60 years old, when that HSA is worth hundreds of thousands of dollars,
+[ 220.0s] you can pull the entire thing using the receipts for the last 40 years of health expenses.
+[ 225.8s] Go Google or use AI on what expenses you can actually utilize for an HSA. It's pretty mind blowing.
+[ 230.6s] Yes, you can do all your normal expenses, hospital bills, checkups, all that kind of stuff,
+[ 234.3s] but you can actually do like saunas and cold plunges, stuff that is good for your health,
+[ 239.0s] qualify sometimes for your HSA, look into it, save the receipts, and at the end,
+[ 243.2s] you can pull it all tax-free. With both of these strategies, you got to do your research
+[ 247.4s] and make sure you're working with the right professionals because there's caveats and rules
+[ 250.3s] that you got to follow. For example, with the HSA, you actually have to have a high deductible health
+[ 255.0s] plan. Most employers will give you options for your health insurance and one of them will usually
+[ 259.6s] qualify, but you have to use that qualifying health plan to even be able to use an HSA. Also,
+[ 264.3s] on top of HSA or honestly, all of these accounts for the first two strategies, there's
+[ 267.7s] contribution limits. I'm going to flash on screen right now the contribution limits
+[ 271.4s] for an HSA, 401k, and IRA as of now, but make sure to go do your diligence
+[ 276.2s] because these change fairly often.
+[ 285.4s] Strategy number three is about charitable giving, but I want to transform the way
+[ 289.0s] you think about charitable giving. Yes, you can give money that you've worked for to these
+[ 292.6s] charities and write off your taxes, but there are much better ways. Okay, stay with me for
+[ 296.2s] these two. First one, there's something called a DAF, a donor-advised fund. The reason I love
+[ 301.1s] a donor-advised fund is because it's like an account. Think of it like a brokerage account
+[ 304.8s] or a 401k or an IRA, but the awesome part about it is you can put assets in. The second you put
+[ 310.1s] those assets into the DAF, you get to write it off your taxes, but the DAF you control. So the
+[ 315.3s] assets can stay invested in the stock market, Bitcoin, real estate, your business, your private
+[ 319.2s] business, you can put anything inside of a DAF, but you still control the assets. They still
+[ 323.3s] grow until you find the cause that you want to invest in. Now, here's the cool part is
+[ 326.8s] you can do some tax planning with this. Let's say it's December 31st. You know that you
+[ 331.0s] want to give to a charity, but you need to tax right off today. You could transfer maybe $20,000
+[ 336.1s] from your stock portfolio over in your DAF and immediately write off your taxes, even though
+[ 340.2s] you haven't figured out what charity you want to give it to, but you can actually take it to
+[ 343.2s] the next level. You can donate appreciated assets. So hear me out. Let's say you invested
+[ 348.2s] in Bitcoin at $1,000 a coin. Today, it's $100,000 a coin. What most people would do is they
+[ 353.9s] would sell their Bitcoin, make $100,000, pay taxes on what they sold, $100,000 with
+[ 360.6s] the capital gains, take what's left $80,000 and go invest that. There is no reason to pay taxes
+[ 366.2s] on that when your point is to invest it. And so what you can actually do, you can take that same
+[ 369.9s] scenario, this massively appreciated asset and just donate it into the DAF and not pay any taxes.
+[ 375.0s] So now you get to write off the full $100,000, not just $80,000, and the charity gets an
+[ 379.4s] extra $20,000. It's a win-win for both scenarios. And you can do this with any asset.
+[ 383.5s] I know people that do this before they sell their private business, they do it with real
+[ 387.3s] estate, they do it with stocks, bonds, Bitcoin, you can do with any asset you want. And it creates
+[ 392.2s] an amazing way to actually donate to charities. They're people that get pretty shady inside the
+[ 396.2s] charitable giving world. And so I would be careful in doing some of those crazy tax plays
+[ 400.2s] where they use leverage charity. But I do think if you're going to give to a charity,
+[ 403.7s] do it the most tax efficient way for both you and the charity. Make sure you talk to your
+[ 407.3s] CPA, set it up correctly. It takes a little bit of time up front, but you can use it the rest
+[ 411.4s] of your life.
+[ 420.0s] The next tax strategy that I want to talk about is strategic real estate. This one probably
+[ 423.6s] gets talked about the most on the internet, but there's a couple of things that you've
+[ 426.6s] got to understand. The first one is short-term rentals, Airbnb. This one is preached by a lot
+[ 431.2s] of influencers online. It can be a good strategy, but I want to provide a word of
+[ 435.2s] caution. So the way this works, if you buy a home and the average nightly rental stay
+[ 440.4s] is less than seven days and you materially participate when you run the Airbnb, it actually
+[ 445.8s] will allow you to write it off your active income, your W2 income. That sounds phenomenal,
+[ 449.3s] but the problem is it's oversold on the internet and you should never buy a bad asset just for
+[ 454.0s] the deduction. There are very few Airbnb's right now that actually make sense to do,
+[ 458.0s] and so the problem is people are getting into it, being forced into it or convinced into it
+[ 461.3s] by a lot of different people. When it's not likely good assets, not cash flowing, you
+[ 464.6s] barely make any money because the Airbnb market has changed in the last two or three years.
+[ 468.4s] There are other types though. Real estate syndications are probably my favorite. That's
+[ 471.5s] what I do the most of. This is where you are an investor with a bunch of other people,
+[ 476.1s] maybe 10, 50, 100 of you, put your money together to go buy a massive asset. So let's say you put
+[ 481.0s] $100,000 down with 100 other people. That creates $10 million. You take that $10 million to go
+[ 486.2s] buy an apartment complex with 500 units in it. What ends up happening is you own 1% of this
+[ 492.4s] massive apartment complex so you're diversified across 500 doors. Someone else is running it
+[ 496.7s] and managing it and doing everything, but you get all the cash flow, the appreciation, and the tax
+[ 501.3s] benefits from that person. Syndications are incredible. It is truly passive where you can make
+[ 506.0s] good money, get the appreciation, and the tax benefits. The problem with the tax benefits
+[ 509.7s] is it's usually considered passive losses, which means it won't offset your W2 income
+[ 515.1s] unless you do something called real estate professional status. I'm not going to dive
+[ 518.2s] into that now. That could be a whole other video. Go research it though. Maybe I'll
+[ 521.7s] create another one on it because if you can qualify for real estate professional status,
+[ 525.8s] amazing way to write off your W2 income. The last one that I want to hit on is not as much
+[ 530.5s] as an investment, but it's called the Augusta Rule. You've probably heard of this one before.
+[ 533.8s] It's a pretty cool one. So there's a tax loophole where you can rent out your personal
+[ 538.1s] residence for 14 days a year, and the great part is all that income that comes renting it
+[ 541.8s] comes to you completely tax-free. Now the loophole here is, and you need to be careful,
+[ 545.7s] work with the tax attorney or CPA to pull this off. You can actually rent it to your
+[ 549.0s] business. So if you have a business or a side hustle and you hold client appreciation
+[ 553.0s] events or you hold different meetings or stuff like that, you can expense it off your business.
+[ 557.9s] So rent your home for let's say 500 bucks a day or 1000 bucks a day and you just pay yourself,
+[ 562.8s] but then the $14,000 you had, you get to write off your taxes. So it's written off your business,
+[ 567.6s] but you don't have a claim on any personal. It's called the Augusta Rule. A lot of people
+[ 570.3s] talk about it. Be very careful in how you apply this one. Work with professionals to do it.
+[ 574.6s] It's very legitimate. It's very real. I know a lot of people that do it. I personally do
+[ 578.3s] it. It just has to be done properly in the right way. These are probably the three largest
+[ 582.5s] different ways that you can do real estate. Amazing. I do a lot of it, but there's some
+[ 586.0s] intricacies here that you got to work on your situation. I help thousands of people do this
+[ 590.0s] every single year inside the growth circle so that they can save money on their taxes using
+[ 593.3s] real estate because it's kind of difficult to set up by yourself. The next strategy that I want
+[ 597.0s] to talk about is a very legitimate one, but I approach it with caution probably more so than
+[ 601.2s] most people do. And the reason is twofold. One, I've seen a lot of bad actors in this
+[ 605.0s] space and two, I've seen people get their priorities messed up, trying to take advantage
+[ 608.9s] of this tax deduction.
+[ 616.5s] The fifth strategy is oil and gas. Now oil and gas, in my opinion, is probably one of the
+[ 621.8s] hardest ones to actually underwrite because there are some good deals, but there is a ton
+[ 625.7s] of really bad deals. The structure in which oil and gas is built on is really,
+[ 630.5s] really important. It can offset active income or passive income depending on how it's set up.
+[ 635.4s] Something called intangible drilling costs is a really important term because those of a specific
+[ 640.2s] tax treatment that allow you to offset active income if they're done properly. Now my biggest
+[ 645.4s] piece of advice here, you have to work with a tax attorney and a CPA that are very knowledgeable
+[ 650.1s] inside these deals. They are marketed and sold like crazy because people know that there are
+[ 653.8s] tax advantages to them. So don't go to the pitches, don't get sold on anything until you
+[ 658.0s] have people in your corner that understand how to underwrite these and can truly vet them
+[ 661.7s] for you. One of the biggest red flags, if the primary selling purpose is taxes and the economics
+[ 666.6s] are no longer positive without tax treatment, I'd probably run for the hills. A lot of them will
+[ 671.3s] try to incorporate the potential taxes saved and that's what gets you to positive cash flow,
+[ 675.8s] but good oil deals should be able to stand on their own two legs without all the tax benefits
+[ 679.8s] alongside it. Like I said to start, this is probably one of the hardest ones to underwrite,
+[ 683.2s] get people in your corner because there's a lot of industry knowledge when it comes to it,
+[ 686.6s] but if you find the right one can be an amazing way to offset active income.
+[ 690.2s] Okay, that's the last before we jump into the final two, which are the two that I'm personally
+[ 694.2s] most excited about.
+[ 704.5s] Strategy 6 is one of my favorites and I've done it for years and it's heavy equipment.
+[ 708.5s] When this is done properly can be a massive ride-off for W2 and business owners,
+[ 713.0s] this is how it works. The government allows you to ride off the whole purchase price for a
+[ 716.5s] piece of equipment so long as it's done for a business. And so what we've done is we basically
+[ 720.7s] created a business in a box. We have the relationships to help you set up the LLC,
+[ 724.5s] to buy a piece of equipment, to finance that equipment, and we have all leases in place
+[ 728.2s] to help you rent that equipment, so this is how it works. Let's say you want to buy
+[ 731.3s] $400,000 of equipment. Most banks will allow you to put just 10% down, so you put $40,000
+[ 736.6s] down on a piece of equipment to buy $400,000 of equipment. But the beauty of the tax code
+[ 741.0s] is you don't get to ride off $40,000, you get to ride off $400,000 off your taxes.
+[ 745.5s] We have contacts with the largest equipment leaser in the nation and they will take equipment from
+[ 749.6s] the gross circle and go rent it out and the economics are incredible because they will
+[ 753.2s] cover that $360,000 loan and give you cash flow on top of it. So now what we've done,
+[ 758.6s] we've turned a $40,000 down payment into a $400,000 tax ride-off while covering your
+[ 763.5s] debt for you and cash flowing. And the beauty of all this is it can be ridden off your W2
+[ 767.8s] or active income. In order to ride it off your W2 you've got to spend real time in
+[ 771.4s] this business. You're not operating the machinery but you've got to check the
+[ 774.4s] machinery, watch it, finances, all that kind of stuff but the tax savings are way
+[ 778.5s] worth the time. Now when it comes to the professionals, there is a big difference
+[ 783.0s] in CPA's tax strategist and tax attorneys and even inside of those there's a big difference
+[ 787.7s] amongst the different CPAs. When you take tax strategies like this to a CPA that's charging
+[ 792.2s] five, six, seven, or maybe a thousand bucks a return, they're not going to understand it and
+[ 795.8s] it's not their fault. I'm not getting mad at them at all. A CPA's job is to look backwards,
+[ 799.8s] take all the documents, put them on a tax form and file it on your behalf.
+[ 803.0s] Their job is not to understand tax law. That's a tax attorney's job. And so as you're
+[ 808.0s] assembling your team or as you take the strategy to your CPA, just understand if
+[ 811.6s] there's some hesitancy there. It doesn't mean that it's a bad strategy or a wrong strategy.
+[ 815.5s] You may just need to get the right help on people who understand this and do
+[ 818.6s] this every single day. I've hired countless tax attorneys to look through this,
+[ 821.5s] write opinion letters, everything. I know that the strategy can be done.
+[ 824.6s] You just have to set it up the right way and work with the right people.
+[ 827.2s] And that brings me to strategy seven. Strategy seven is the one I'm doing the
+[ 830.1s] most of this year. It's the one I'm most excited about. And the fun part is I'm
+[ 833.0s] actually standing right in front of it. And that is this workforce housing.
+[ 841.0s] My name is Kase and Jennings. I'm the founder of Highland Still. And we sell the world's
+[ 846.3s] best redeployable homes. We utilize these homes a lot for disaster relief. We've
+[ 851.0s] actually got homes going overseas right now. And then also we've discovered this new
+[ 855.1s] thing called data centers. A lot of people know there's about 3000 data centers that
+[ 859.5s] need to be built over the next 10 years in the United States. Our whole mission here
+[ 864.9s] is put roofs over the heads, the people that need them. And we've got a product that nobody else has.
+[ 872.2s] This unit is actually in the process of being deployed, which makes it so cool. Let me tell
+[ 876.2s] you a little about this. We have a huge issue in America right now with workforce housing.
+[ 880.2s] With all the data centers that are popping up, there's becoming a massive
+[ 883.3s] shortage of housing in very rural communities. Because what these companies will need is
+[ 886.7s] they'll have to drop like 6,000 workers in the middle of the desert to build a data center.
+[ 890.9s] And then after that just completely leave. And so the company contact I have specializes
+[ 895.0s] exactly that. This unit behind me can be folded up, put on a semi truck, shipped across the
+[ 900.0s] country, deployed within four hours, sit there for a month or five years doesn't matter,
+[ 904.3s] refold up and go to the next location. It can opt from place to place to place
+[ 908.0s] and solves a very real need. For about the last decade, I've owned and operated a large
+[ 913.4s] nationwide tax and accounting firm where we have thousands of clients and all of them were
+[ 919.1s] either high income earning, entrepreneurs or high income W2. We came across this because we
+[ 924.5s] had these clients that, you know, have these massive tax bills. Obviously they would have
+[ 928.4s] rather put the money in other places, whether it be in their own pocket or back into their
+[ 932.3s] business. We've literally designed something that utilizes the tax code for exactly what
+[ 937.6s] it's meant for. And that is stimulate pieces of the economy or community that actually
+[ 941.6s] need help. It's great because as a high income earner, you can be a part of a great cause,
+[ 947.4s] but also get a great tax benefit and keep more of your money inside of your pocket by doing so.
+[ 952.7s] Let's say you put 20% down on a home, $100,000 just for our numbers.
+[ 956.4s] You buy a $500,000 home, you then take that $500,000 home, this redeployable
+[ 961.4s] equipment right here and you ship it around the country following these data centers and
+[ 965.3s] the need. Now the great thing is when there's a big need, there's a lot more cash flow.
+[ 969.2s] These things rent for more than a single family home. And so once again, I've negotiated all the
+[ 973.3s] parts. We have the lender for you, the property manager for you, we have the manufacturer for you,
+[ 977.0s] we actually set up all the trust and everything that you need to buy the unit.
+[ 979.8s] This is tax investing and this is how you truly mitigate your taxes.
+[ 983.3s] W2 Business Owner doesn't matter and it creates real wealth.
+[ 986.6s] Here's what I want you to take away from all this, okay? Tax strategies by themselves are
+[ 990.7s] not enough. Let's say that all these strategies can save you $50,000 on your taxes. If you
+[ 995.4s] take the $50,000 that would have gone to the IRS and instead you go invest it. I don't care if it's
+[1000.3s] in the stock market or private markets or real estate or wherever you want to do it.
+[1003.7s] Five, 10, 15 years later, that can turn into hundreds of thousands if not millions of dollars.
+[1007.8s] If you want to go deeper though on any of these, that's what Gross Circle is there for.
+[1011.5s] I spent years of simulating these tax deals, bringing all the pieces together
+[1015.4s] so that people can just get these tax deals basically in a box. You can do it on your
+[1018.6s] own or you can join something like the Gross Circle to help you do it. So if you
+[1021.5s] want to learn more about the Gross Circle, there's a link down in the description where
+[1024.2s] you can book a call with my team. I had them set aside 15 minute intervals so my team will
+[1028.4s] jump on a call and just talk to you about these tax strategies. They'll explore whether it makes
+[1032.2s] sense to actually do them your personal situation and whether Gross Circle is something
+[1035.3s] that makes sense for your situation. So, click your call down below if you're interested
+[1038.6s] and as always, if you found value in this video, hit that like, hit that subscribe
+[1042.0s] button because we do these every single week.

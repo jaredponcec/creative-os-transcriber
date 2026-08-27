@@ -1,0 +1,25 @@
+ad_name: DC Event | Vid 2 | 3.17
+video_id: 1613882159638298
+status: CAMPAIGN_PAUSED
+duration_seconds: 76.4
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] DC area, if you are making six figures or more and your wealth is not growing the way you think it
+[   4.7s] should, this is for you. A few years ago, I was sitting across the table from someone who had made
+[   8.5s] a hundred million dollars and I asked him a question. What do you think separates the wealthy
+[  12.8s] from those that are not? And his answer was really simple. The wealthy get in the rooms that
+[  17.4s] matter early. That has always stuck with me. And that's exactly why I'm inviting you to
+[  21.8s] one of those rooms today. I am hosting a one day wealth event in your city where we are
+[  26.9s] going to go over everything that it takes to grow real wealth. How do you mitigate your taxes? Get
+[  31.8s] your effective tax rate down to five or 10 percent. Then use that money you saved to go get access to
+[  36.4s] better investments. Stuff like venture capital, private equity or large scale real estate.
+[  40.0s] We are going to keep this small. I don't want more than 100 or 150 people in the room because I
+[  44.2s] want the right people in the room so we can have a real conversation about what it means to
+[  48.5s] grow generational wealth. Far too many people just accept paying taxes thinking they have to pay
+[  53.7s] 25, 35 or even 45 percent taxes and that is not true. Imagine if I could say you have your
+[  58.8s] tax bill. How much more would you have to invest? Live your life. Do things that you wanted to.
+[  62.7s] You already made the money. Just keep more of that money that you've already made.
+[  65.8s] This is not for beginners. This is for people that are earning good money but are ready to
+[  70.0s] grow their wealth at an even faster clip. If that's you, click the link down below,
+[  73.8s] register for your spot and I would love to see you there.

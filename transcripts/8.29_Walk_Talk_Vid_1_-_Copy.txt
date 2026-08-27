@@ -1,0 +1,17 @@
+ad_name: 8.29 | Walk & Talk Vid 1 - Copy
+video_id: 1601242081045424
+status: CAMPAIGN_PAUSED
+duration_seconds: 42.7
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] There's a financial game being played and most high wage earners don't even know it exists.
+[   4.8s] While you're grinding, someone is using your tax dollars to fund their next investment.
+[   9.3s] It's not illegal, it's not shady, it's just informed and they actually know what they're
+[  13.0s] doing. They know the entity structure, they know the tax codes, they know the investments,
+[  17.0s] they know the exact roadmap that they need to follow to be able to invest to save on their
+[  21.4s] taxes. And the crazy part, you don't need $10 million to start, you just need access
+[  25.9s] and education. And most people don't know where to look so let's fix that. Join me inside a live
+[  30.5s] training 60 minutes where I break down step-by-step the roadmap that you need to follow. I'll show
+[  35.8s] you how the wealthy keep and grow their money. We're only letting 60 people in so click the
+[  40.6s] link down below and I'll see you in there.

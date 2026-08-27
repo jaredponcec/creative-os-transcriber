@@ -1,0 +1,20 @@
+ad_name: 6.1 | Vid 4 - Copy 2
+video_id: 1503323691341758
+status: CAMPAIGN_PAUSED
+duration_seconds: 44.0
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you are a business owner making over $200,000 a year,
+[   3.4s] you have so many opportunities to mitigate your taxes, you just haven't been taught how.
+[   7.2s] Anyone can mitigate their taxes, W2 or business owners, but business owners have it easier.
+[  11.4s] The IRS book is there to incentivize behavior. When the government wants you to do something,
+[  15.3s] they put it in there. It's a bookie. Yes, it's not a book of nose.
+[  17.5s] They want you to invest in your business, so they allow you to do bonus depreciation
+[  20.7s] and ride-offs. What you need to figure out is how to invest in a specific way to get
+[  24.7s] those same ride-offs that you get inside your business. It's completely legal, completely
+[  28.6s] doable. You just need to be taught how. That's why I'm holding a two-hour training for business
+[  32.0s] owners to teach them how to mitigate their taxes, so you can keep more of every dollar that you're
+[  35.2s] working so hard for and invest it. If you click the link down below, you can register
+[  38.6s] a wheel and let 200 people in each week so I can answer your questions and go
+[  41.3s] through the material. Click the link down below and I can't wait to see you there.

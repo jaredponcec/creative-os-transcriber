@@ -1,0 +1,23 @@
+ad_name: Retirement Quiz | Vid V1
+video_id: 1672038817128449
+status: CAMPAIGN_PAUSED
+duration_seconds: 42.9
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] What does your dream retirement actually look like?
+[   3.0s] Waking up without an alarm, traveling Europe for a month, not a week, being able to write
+[   7.0s] a check for your daughter's wedding without looking at the bank account.
+[  10.0s] Are you setting up a college fund for all your grandkids?
+[  12.4s] Are you able to retire your spouse so that they can quit the job that they've always
+[  15.4s] hated?
+[  16.4s] That's not a fantasy, that's what real financial freedom actually looks like.
+[  21.1s] Most people, even those making great money, have no idea if they're on track or
+[  25.0s] off track for retirement.
+[  26.6s] They're saving, they're investing, they're doing everything they were told, but are
+[  29.5s] they on track?
+[  30.5s] I created a two-minute quiz to answer that exact question.
+[  33.9s] Are you on track for retirement and what is the next step you need to make to be able
+[  37.7s] to get there?
+[  38.7s] So click the link down below, take the quiz and see how far off you are from your
+[  41.9s] dream retirement.

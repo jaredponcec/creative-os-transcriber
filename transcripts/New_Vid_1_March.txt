@@ -1,0 +1,26 @@
+ad_name: New Vid 1 (March)
+video_id: 1016336237048487
+status: CAMPAIGN_PAUSED
+duration_seconds: 57.8
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Your financial advisor is betting a lot of money that you'll make this mistake.
+[   3.7s] The truth is, a lot of people actually don't need a financial advisor.
+[   7.1s] Any good financial advisor would tell you that exact sentence.
+[  10.1s] Their services are for a particular type of person,
+[  12.4s] but the problem is they built the whole industry around the financial advisor
+[  16.0s] trying to make it more complicated for the everyday person.
+[  18.6s] Because if you don't believe you can manage your money,
+[  20.9s] you will hire them and pay a lot of money to do it when you actually don't need it.
+[  24.5s] That is the whole reason I built Amplify Foundations.
+[  26.7s] There are thousands and thousands of people in there trying to do exactly what you're trying to do.
+[  31.3s] Learn how to break that complexity down into a step-by-step process so it's no longer complex,
+[  35.6s] because it's not.
+[  36.5s] There are simple steps to investing, how to diversify and how to get into those stocks,
+[  40.1s] and I walk you through it step-by-step so that you can take control of your finances
+[  43.6s] and stop paying someone way too much to do it for you.
+[  45.9s] If you want to get access, I'll give it to you for 7 days for free
+[  48.6s] because I want you to jump in there and make sure it's something that you actually want.
+[  51.4s] You can cancel on day 6, I really don't care.
+[  53.6s] Get on that path to financial freedom so you can start learning what's never been taught.

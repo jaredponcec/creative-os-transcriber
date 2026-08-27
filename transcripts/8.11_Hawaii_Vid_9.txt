@@ -1,0 +1,23 @@
+ad_name: 8.11 | Hawaii Vid 9
+video_id: 1348162290648015
+status: ADSET_PAUSED
+duration_seconds: 67.6
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you make over $200,000 a year and gave almost half of it to the IRS,
+[   4.4s] you are working way too hard to get hit that hard by taxes.
+[   8.2s] If you make $200, $500, even million dollars a year, you are getting wrecked by taxes.
+[  13.1s] I still remember the first time I made over $250,000 a year.
+[  16.0s] I was on cloud nine until April came and I had to pay such a large tax bill that it completely
+[  20.3s] wrecked me. It was then that I leaned into my network and realized what the wealthy do.
+[  23.8s] They don't only just make lots of money, they keep more money that they make than you
+[  28.3s] and I do. They don't pay 20, 30, 40% of their income to the government.
+[  32.5s] They have a plan through investing in tax strategy that makes it so they only have to pay 5, 10,
+[  37.0s] 15% of their money to the government so that every dollar they make can be invested and grow
+[  41.8s] exponentially quicker. I took my effective tax rate from over 40% down to 2.5% by
+[  47.5s] strategically investing in the right things, setting up my tax plan and understanding
+[  51.6s] how it can work for W2 earners and for business owners.
+[  55.2s] If you want to deep dive into taxes so that you can lower your taxable income,
+[  58.9s] click the link down below, register for your seat and I will give you the entire thing in
+[  62.6s] that hour presentation. We only let 200 people in the room so quickly register and I'll see you in there.

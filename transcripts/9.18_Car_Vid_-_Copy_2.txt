@@ -1,0 +1,42 @@
+ad_name: 9.18 | Car Vid - Copy 2
+video_id: 1183980470249261
+status: CAMPAIGN_PAUSED
+duration_seconds: 63.5
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Most people don't know how to shop their refinance.
+[   3.5s] Even loan officers don't even know
+[   5.3s] what the backend fees are of the shops that they work with
+[   7.8s] and honestly, I think it's a scam.
+[   9.2s] When you're refinancing,
+[  10.2s] you don't actually want the lowest rate.
+[  12.2s] Most people don't know,
+[  13.0s] I could get you a 2% interest rate right now,
+[  14.6s] it would just cost you a ton of money to do it.
+[  16.3s] I can get you a 7% interest rate right now
+[  18.1s] and most likely you would actually get a credit back
+[  20.1s] and they'd pay you to take that interest rate.
+[  21.9s] Understanding how to shop an interest rate
+[  24.6s] is a skill that most people don't have
+[  26.5s] and we train our loan officers
+[  28.0s] to actually teach people how to do it.
+[  29.8s] Mortgage rates just hit their lowest point in 2025.
+[  32.2s] We are getting more phone calls about refinances
+[  33.9s] more than ever and it made me realize how important this is.
+[  36.6s] If you wanna learn how to actually shop your interest rate,
+[  39.1s] let us do it against 10, 20, 30 different companies
+[  41.8s] on your behalf that's what we do as a mortgage broker.
+[  43.9s] We will shop it, we'll then show you
+[  45.4s] how we shop and educate you
+[  47.1s] so you can make a good decision.
+[  48.5s] Our goal is not to talk you into anything.
+[  50.1s] Our goal is to educate you, show you how to shop
+[  51.9s] so you don't get taken advantage of
+[  53.1s] so you can make the decision
+[  54.3s] on whether now is the time to actually refinance.
+[  56.5s] Click the link down below,
+[  57.4s] would love to have a call with you
+[  58.7s] and show you if it actually makes sense
+[  60.5s] to refinance right now
+[  61.5s] because honestly rates are getting pretty good.

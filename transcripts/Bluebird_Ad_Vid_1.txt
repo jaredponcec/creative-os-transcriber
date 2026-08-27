@@ -1,0 +1,26 @@
+ad_name: Bluebird Ad Vid 1
+video_id: 4062732404048243
+status: CAMPAIGN_PAUSED
+duration_seconds: 72.3
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] There is massive opportunity in private equity right now. If you are on the business side of
+[   4.7s] social media, you have probably heard that Baby Boomers are starting to retire. A lot of them
+[   8.6s] are giving up their businesses and there are private equity companies that are rolling them
+[  11.9s] together and making massive money. We've seen it happen with dental offices with companies
+[  15.9s] like Delta Dental. We've seen it with A.C. Heating, garage doors, plumbing. There are
+[  20.1s] a bunch of industries that are being massively disrupted because these private equity companies
+[  24.2s] are coming together, rolling a bunch of companies into a single brand and then exiting those
+[  28.0s] at really big valuations, 7, 8, 9, 10 times multiples because they are creating efficiencies
+[  33.2s] and scales and businesses that have never had it. Think about these businesses. The people have
+[  36.6s] probably run these for 20, 30, 40 years, have never invested in sales or marketing or tech
+[  41.4s] or efficiencies or HR or any of that. And so if you can take a profitable cash flowing business
+[  45.9s] and mix it with modern business principles, it is a recipe for massive growth and there's a
+[  50.3s] lot of opportunity. That's exactly what we're doing here at Bluebird. We have proven the
+[  53.6s] model already been successful at it and now we're deploying it into other markets and
+[  57.0s] we're starting to accept investors. So if you ever want to invest in private equity,
+[  60.6s] if you ever want to get a home services, if you want to have ownership in a business,
+[  63.8s] this is for you. Click the link down below. I have like a five or six minute video that you
+[  66.8s] can watch that explains a little bit more and we'd love to talk to you and see if this
+[  69.9s] makes sense. Click the link down below and I'll see you in there.
