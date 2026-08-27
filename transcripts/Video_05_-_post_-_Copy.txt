@@ -1,0 +1,14 @@
+ad_name: Video #05 - post - Copy
+video_id: 1508901479980390
+status: ADSET_PAUSED
+duration_seconds: 31.8
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] You can't out-invest consumer debt. I see so many people that will go put money in their 401k or the Roth IRA and all this other stuff
+[   6.9s] but then they have car loans and credit car loans and personal loans and it just doesn't make sense.
+[  11.4s] Inflation is killing us. Our country's debt is at an all-time high
+[  14.8s] trillions of dollars and we need to figure out how to get out of debt while maintaining our lifestyle because none of us
+[  19.6s] want to hate life so that we can get back on the path to financial freedom. Click the link below.
+[  23.5s] I'll help you budget. Keep your lifestyle and use the snowball method, the most proven method to get out of debt
+[  28.4s] so we can put you back on your feet and take control of your finances.

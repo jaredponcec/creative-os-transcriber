@@ -1,0 +1,20 @@
+ad_name: Video #01 - Draft
+video_id: 1899471673878763
+status: ADSET_PAUSED
+duration_seconds: 53.7
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] The equity in the home is wasting away while you are drowning in consumer debt. It honestly doesn't
+[   5.3s] make sense why people have this asset in their home and then are carrying all this credit card debt
+[   9.4s] when in actuality you can combine the two. I get you have a good rate on your home,
+[  12.7s] but we can tap into the equity of your home without losing that interest rate.
+[  16.2s] He locks, he loans, sometimes cash out refinances make sense too, but look rates are getting
+[  21.0s] better. Yes, we're not where we want to be, but I promise you if we can combine all your
+[  25.0s] debts, your credit card debt, your car loans, everything into one payment, save you $500,000
+[  30.5s] a month on all your debt combined so you can actually get out of debt and start applying that to
+[  33.6s] the principal, you will be so much better off. Stop letting your home sit there and do nothing for
+[  38.2s] you. Figure out a tap into this massive asset you have so you can actually take control of
+[  42.2s] your finances. Click this link below, no obligation, no cost, won't hurt your credit
+[  46.2s] score. I just want to try to help you to figure out if we can take your asset to make it
+[  49.9s] so you're not drowning in debt so you can get back on your feet financially.

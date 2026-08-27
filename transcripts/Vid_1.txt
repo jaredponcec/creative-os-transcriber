@@ -1,0 +1,23 @@
+ad_name: Vid 1
+video_id: 990190556373857
+status: CAMPAIGN_PAUSED
+duration_seconds: 58.5
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you live in Salt Lake or the Wasatch Front, I'm going to hold a really small gathering
+[   3.4s] for probably like 30 people to talk about real estate syndications and investing.
+[   7.9s] There is a reason every millionaire and billionaire gets into real estate, but how they invest in
+[  11.7s] real estate is vastly different than how me and you are taught to invest in real estate.
+[  15.3s] The vast majority of them do real estate syndications. What that is is when you see
+[  18.8s] a hundred million or a fifty million dollar apartment complex, the vast majority of time
+[  22.3s] that's not owned by a single person, it's owned by a syndicated group. And so what they'll
+[  25.6s] do is they'll bring 20, 30, 40 investors together. Everyone will pitch in like a hundred thousand
+[  30.0s] dollars and pool their money as a down payment and purchase that apartment complex together.
+[  34.2s] Once they purchase it, they appoint a management group to rehab it, to make sure it's rented,
+[  38.1s] to take care of it, all that kind of stuff. And so it truly creates passive income in
+[  41.7s] real estate. But because you have actual ownership in it, you still get the tax
+[  44.6s] benefits, you still get the appreciation, you still get to capitalize on the leverage so
+[  47.8s] you get those better returns, but you don't have to manage it because you're doing it
+[  51.0s] inside of a syndicated group. If you're seeing this, there's still a couple of seats available.
+[  54.2s] We're doing it on March 15th. Click the link down below to reserve your spot and we'll see you there.

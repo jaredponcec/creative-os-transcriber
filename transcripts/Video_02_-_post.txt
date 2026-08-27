@@ -1,0 +1,26 @@
+ad_name: Video #02 - post
+video_id: 980443717211815
+status: DISAPPROVED
+duration_seconds: 55.8
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] 79% of Americans won't be able to retire.
+[   3.2s] The median net worth of someone to retirement is $254,000 and I promise you that is not enough
+[   8.9s] to get you to retirement.
+[  10.1s] The problem is, we've been fed these lies that you put your money in a company sponsored
+[  13.4s] 401k, you pay a financial advisor 1-2% and you follow the proven path of financial
+[  18.7s] retirement for the last 30, 40, 50 years, but the fact of the matter is, what prepared
+[  22.9s] someone for retirement back in the 70s and 80s is not going to prepare someone
+[  26.4s] for retirement today.
+[  27.5s] You have to know how to maximize your retirement funds, figure out the most
+[  30.7s] optimal way of investing so you take control of your finances and don't put them
+[  34.3s] in someone else's hand.
+[  35.6s] Click the link below to join Amplify.
+[  37.4s] That is exactly what Amplify does.
+[  39.0s] I take you from budgeting to advance investing, getting out of debt all the way
+[  42.4s] to the five accounts every American should have in advance investing so you can
+[  45.8s] manage your finances and stop relying on other people to get you 4, 5, 6%
+[  49.3s] returns.
+[  50.3s] So instead, you can go get 8, 9, 10, 15, 20% returns and actually enjoy your
+[  54.2s] retirement like you're supposed to.

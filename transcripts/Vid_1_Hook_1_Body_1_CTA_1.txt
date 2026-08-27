@@ -1,0 +1,44 @@
+ad_name: Vid 1 | Hook 1 Body 1 CTA 1
+video_id: 1806166973639138
+status: CAMPAIGN_PAUSED
+duration_seconds: 61.0
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Denver, if you are making good money
+[   2.4s] but your net worth isn't where you think it should be,
+[   4.8s] this is for you.
+[   5.9s] A few years ago, I was sitting across from a guy
+[   7.6s] that made over $100 million and I asked him one question.
+[  10.4s] What's the difference between the wealthy
+[  12.1s] and everyone else?
+[  13.0s] And he had a simple answer.
+[  14.2s] He said they get in the right rooms early.
+[  16.4s] Honestly, that stuck with me
+[  17.6s] and that's exactly what I'm doing in Denver.
+[  19.7s] I'm holding a one-day in-person event
+[  21.8s] for successful people to get in the right room.
+[  24.0s] We are gonna cover a lot of different topics.
+[  26.1s] How do you get access to private market deals,
+[  27.8s] venture capital, private equity?
+[  29.1s] How do you get that deal flow?
+[  30.0s] How do you actually invest your money?
+[  31.3s] Where do you put that money?
+[  32.2s] How do you actually minimize your taxes legally?
+[  34.2s] How do you play the game that all of them play?
+[  36.1s] If I could save you 30, $40, $50,000 of taxes
+[  38.5s] and you took that money and when invested,
+[  40.3s] it would change your life.
+[  41.6s] That is the room that we're gonna be in
+[  43.0s] and what we're gonna be learning.
+[  43.9s] I'm super excited about it.
+[  45.4s] This room isn't for beginners, okay?
+[  47.2s] If you have capital, if you're an investor
+[  49.1s] and if you feel like your money
+[  50.6s] should be working harder than it currently is,
+[  52.7s] this is for you.
+[  53.5s] Click the link down below,
+[  54.4s] watch the video on the next screen
+[  56.0s] and grab your ticket for May 24th.
+[  58.3s] One day full of strategies.
+[  60.1s] We'll see you there.

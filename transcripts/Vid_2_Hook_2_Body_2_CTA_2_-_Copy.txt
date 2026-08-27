@@ -1,0 +1,34 @@
+ad_name: Vid 2 | Hook 2 Body 2 CTA 2 - Copy
+video_id: 1404869557216187
+status: CAMPAIGN_PAUSED
+duration_seconds: 60.6
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you are in Denver, making decent money, but you feel like you should be further ahead,
+[   4.6s] this is for you.
+[   5.6s] A few years ago, I was sitting across from a guy that made over $100 million and I asked
+[   9.1s] him one question.
+[  10.1s] What's the difference between the wealthy and everyone else?
+[  12.6s] And he had a simple answer.
+[  13.9s] He said, they get in the right rooms early.
+[  16.0s] Honestly, that stuck with me and that's exactly what I'm doing in Denver.
+[  19.4s] I'm holding a one day in person event for successful people to get in the right room.
+[  23.8s] We are going to cover a lot of different topics.
+[  25.8s] How do you get access to private market deals, venture capital, private equity?
+[  28.8s] How do you get that deal flow?
+[  29.8s] How do you actually invest your money?
+[  31.0s] Where do you put that money?
+[  32.0s] How do you actually minimize your taxes legally?
+[  33.9s] How do you play the game that all of them play?
+[  35.6s] If I could save you $30, $40, $50,000 of taxes and you took that money and when invested,
+[  40.0s] it would change your life.
+[  41.4s] That is the room that we're going to be in and what we're going to be learning.
+[  43.5s] I'm super excited about it.
+[  45.1s] This room isn't for beginners, okay?
+[  47.0s] If you have capital, if you're an investor and if you feel like your money should
+[  50.4s] be working harder than it currently is, this is for you.
+[  53.2s] Click the link down below.
+[  54.2s] Watch the video on the next screen and grab your ticket for May 24th.
+[  58.2s] One day full of strategies.
+[  59.8s] We'll see you there.

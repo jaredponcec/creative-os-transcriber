@@ -1,0 +1,18 @@
+ad_name: Video #01 - Post – Copy
+video_id: 507775432089292
+status: ADSET_PAUSED
+duration_seconds: 44.0
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you have an FHA loan and you've purchased your home in the last three years, it probably
+[   3.8s] makes sense to refinance. Did you know FHA loans are supposed to have lower interest rates than
+[   8.0s] conventional loans, but the issue is most lenders artificially raise the prices on FHA loans because
+[  13.6s] they want to make a bigger commission on the back end. In my opinion, it's unethical, shouldn't
+[  17.4s] happen, but the majority of banks and institutions make more commissions on an FHA loan than
+[  22.2s] you do a conventional loan and that's artificially raising your interest rates.
+[  25.9s] You need to work with someone that isn't going to do this and makes the same across
+[  28.9s] the board on VA loans, FHA loans, conventional loans, no matter where it's at because that
+[  32.6s] translates to lower interest rates have more money in your pocket. Click the link below,
+[  36.2s] let's see if it makes sense. It may not make sense, but let's see if it makes sense to
+[  39.1s] refinance right now and if we can put hundreds, if not thousands of dollars back in your pocket.

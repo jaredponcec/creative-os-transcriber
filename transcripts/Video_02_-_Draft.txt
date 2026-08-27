@@ -1,0 +1,17 @@
+ad_name: Video #02 - Draft
+video_id: 547825568061090
+status: ADSET_PAUSED
+duration_seconds: 39.5
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Americans are drowning in debt but then we just hit all-time high-man mortgage.
+[   3.4s] Did you know we have more equity in our real estate than ever before and we have more consumer
+[   7.8s] debt than ever before? Those two should not coexist. There are ways to tap into the equity of your
+[  12.3s] mortgage and of your home to pay off your consumer debt without getting rid of your three and four
+[  16.2s] percent interest rate. Click the link below. I'd love to help you, okay? There is a way that you
+[  20.1s] can get back a hundred, five hundred, a thousand dollars a month in interest payments by combining
+[  25.0s] all your debts into one using a heatlock or a heat loan, taking control of your financial
+[  28.5s] future rather than having this massive asset just sitting there while you're drowning in debt.
+[  32.3s] Click the link below. I'd love to do it. No obligation, no cost. I won't hurt your credit.
+[  35.7s] I will just run the numbers for you, see if it makes sense, and then we can have a conversation.

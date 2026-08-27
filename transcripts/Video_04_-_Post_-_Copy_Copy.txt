@@ -1,0 +1,31 @@
+ad_name: Video #04 - Post - Copy – Copy
+video_id: 430222679700662
+status: ADSET_PAUSED
+duration_seconds: 51.9
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you are currently going through a refinance, stop for five minutes and just let me make
+[   5.2s] sure you're not getting taken advantage of.
+[   7.2s] If you're going through a refinance, it does not hurt to get a second opinion.
+[  10.8s] Every single institution pays their loan officers different and makes a different amount
+[  14.1s] on the back end.
+[  15.1s] You can't even see it.
+[  16.1s] It's not on the closing disclosure, but they're making different amounts on the
+[  17.8s] back end.
+[  18.8s] What that means is it means your interest rate will be higher because you're paying
+[  21.5s] their fees.
+[  22.5s] Work with a bank that has your best interest in mind, brings those fees down as low
+[  25.7s] as they possibly can, charges everyone the same rate, so it puts money back in
+[  29.3s] your pocket.
+[  30.3s] Just let me shop it.
+[  31.3s] If I can't save you money and I can't beat them, continue forward with them.
+[  33.6s] If I can save you a couple thousand dollars in your pocket as part of this refinance,
+[  36.9s] it's going to be a game changer because it ends up right back in your pocket.
+[  40.2s] Click the link below.
+[  41.2s] If you're going through refinance, send us over the information you got.
+[  43.7s] If we can beat them, awesome.
+[  44.7s] Let's put the money in your pocket.
+[  45.7s] If we can't, no harm, no foul, you're better off anyways because you found
+[  48.6s] out you got a good deal.
+[  49.6s] Click the link below and hopefully we can work together.

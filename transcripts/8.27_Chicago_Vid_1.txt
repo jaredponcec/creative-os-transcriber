@@ -1,0 +1,17 @@
+ad_name: 8.27 | Chicago Vid 1
+video_id: 1864681268245005
+status: ACTIVE
+duration_seconds: 51.6
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If this year is going to be the best financial year of your life, April 15th is going to be the
+[   4.2s] worst day of your life. Maybe you hit the milestone, maybe the stock vested, maybe you hit that commission
+[   8.7s] income that you've been trying to get forever. Whatever it is, the IRS is going to get theirs
+[  12.7s] unless you plan today for that day. The great news is whether you're 1099 W2 a business owner,
+[  18.3s] the IRS has given you the playbook on how to write this income off. You can buy an asset that
+[  23.0s] produces income and write it off your taxes. There's things like workforce housing and heavy
+[  26.8s] equipment where the IRS will allow you to put maybe $50,000 down and write $250,000 off your taxes.
+[  33.2s] This strategy has literally changed my life because I get to keep more money in my pocket,
+[  37.4s] actually invest it rather than give it to the IRS. If you want to learn the playbook,
+[  41.1s] click the link down below and I'd love to teach you how.

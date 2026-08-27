@@ -1,0 +1,22 @@
+ad_name: Video #02 - Post - Copy
+video_id: 485495421151686
+status: ADSET_PAUSED
+duration_seconds: 57.4
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] The stock market is down, unemployment's up, inflation is finally getting out of control
+[   4.8s] and all this means lower interest rates. If you've purchased a home in the last three years,
+[   9.2s] interest rates are finally getting to the point where we're starting to see refinance applications
+[  13.0s] flood in because everyone that's stuck at a six and a half, seven, seven and a half percent
+[  16.6s] interest rate can finally refinance, start to get better interest rates and put money back
+[  20.4s] in their pockets. So if you are inside that boat, work with a lender that will shop for
+[  24.4s] you, find the best deal and sit on your side of the table. Too many lenders represent one
+[  28.2s] institution and try to sell you an interest rate. They work for it fairway or rocket or
+[  32.0s] yield or whoever movement. I don't care who it is and are trying to sell you a mortgage.
+[  35.5s] There are mortgage brokers out there that are not affiliated to any one institution. It is in
+[  40.0s] their best interest to find you the best deal and not try to go with the bank that's going to serve
+[  44.0s] them most like most loan officers. If you want to know if it makes sense and it may not,
+[  47.6s] if it doesn't make sense, I'll put you into my automated software that will tell you when
+[  51.1s] it does make sense. So let's see if it does now. If not, I got your back. I'll let you know
+[  54.6s] later. So click the link below and I look forward to working with you.

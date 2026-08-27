@@ -1,0 +1,17 @@
+ad_name: 8.27 | Chicago Vid 2
+video_id: 1117247541243071
+status: ACTIVE
+duration_seconds: 52.0
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] The IRS runs two rule books. One for people that earn income and one for people that own things.
+[   5.9s] The problem is no one's ever told you which one you are. If you are going to pay more than $50,000
+[  10.2s] in taxes this year, you're being taxed as someone that earns not owns. The great news is you can
+[  15.3s] change that. This is what the millionaires and billionaires have been doing for years. They
+[  18.4s] own things, they lend against it, they create assets that produce income, and because of that
+[  23.0s] they get to ride a ton off their taxes. This works for W-2, 1099 business owners, it really
+[  27.6s] doesn't matter. The IRS does not care your income type, they just care that you do it right. I'm going
+[  31.8s] to hold a workshop where we deep dive all of this. How do you mitigate your taxes? How do you keep
+[  35.8s] more money in your ecosystem so you can deploy, invest it, and create generational wealth? If
+[  39.9s] that's what you want, click the link down below. We only let 200 people in and I'd love to see you there.

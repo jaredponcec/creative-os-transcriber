@@ -1,0 +1,18 @@
+ad_name: Video #03 - Draft
+video_id: 539331062127755
+status: ADSET_PAUSED
+duration_seconds: 42.1
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Your home has all this equity but then you have all this debt and it makes absolutely no sense.
+[   4.2s] If a business owner had a massive asset and massive debt and they didn't use the two to cancel each
+[   8.6s] other out they'd be called an idiot but then every American is doing this. Home values are near
+[  13.1s] an all-time high. You likely have tens of thousands if not hundreds of thousands in your home but
+[  17.4s] then you're sitting on credit card debt, home loans and everything else. Click the button
+[  20.6s] below to figure out how much you can get out of your home. I won't affect your credit,
+[  23.6s] it won't cost you any money. I'll run numbers for you but we need to use your greatest asset
+[  27.9s] to get out of consumer debt. Save thousands of dollars a month so that you can get back on your
+[  32.3s] fee financially. Click the link down below. We'll run the numbers for you. No obligation, no cost,
+[  36.6s] no effect to your credit to see if you can save money by using your biggest asset to pay off
+[  40.6s] your biggest debts.

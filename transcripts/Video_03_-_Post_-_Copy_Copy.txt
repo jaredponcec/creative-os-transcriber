@@ -1,0 +1,16 @@
+ad_name: Video #03 - Post - Copy – Copy
+video_id: 925536426267165
+status: ADSET_PAUSED
+duration_seconds: 47.6
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Interest rates are coming down and you are about to be bombarded by the call center refinances trying to capitalize on everything that's happened.
+[   6.5s] Tons of mortgage banks have gone out of business, rocket mortgage is struggling, the biggest companies are struggling,
+[  11.0s] and they're about to start pounding the phones trying to tell you it's time to refinance, and honestly it may not make sense to refinance.
+[  16.3s] I run a page that's all about financial literacy. We have millions of followers and the whole thing is trying to save people money.
+[  21.5s] So I created a software for you where you can put in your home value, what your loan is, your interest rate,
+[  26.1s] and it will automatically tell you when it actually makes sense to refinance so that you're not wondering and getting forced into a mortgage before it makes sense.
+[  32.4s] Click the link below, put in a couple pieces of information, and then just sit back and let it do its job.
+[  37.0s] When it makes financial sense for you to refinance so that you're not paying tons and fees, it will let you know you can put that money back in your pocket and save a ton of money.
+[  44.3s] Click the link below and hopefully you can put more money back in your pocket.

@@ -1,0 +1,27 @@
+ad_name: Vegas Event | Vid 3
+video_id: 1468035291019829
+status: CAMPAIGN_PAUSED
+duration_seconds: 81.3
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] If you are in Vegas and you're making decent money but you feel like you should be further ahead,
+[   3.9s] this is for you. A few years ago, I was sitting across from a guy that made over 100 million
+[   8.3s] dollars and I asked him one question. What do you think the difference is between the people
+[  11.9s] that live an ordinary life and the people that become worth hundreds of millions of dollars? And
+[  15.5s] he said one thing, they get in the right rooms early. Honestly, that stuck with me and that's
+[  19.9s] why I'm inviting you to that room here in Vegas. I'm holding a one-day event where
+[  24.1s] successful people can get in the right room. We are going to keep this group small, okay?
+[  27.4s] I'm going to stop running this video when we get about 50 to 60 people because I want this to be
+[  31.1s] the right group of people with the right room or we can deep dive into everything. How do you
+[  34.7s] invest? How do you get access to private market deals like venture capital, private equity, large
+[  38.2s] scale real estate? How do you find the deal flow? What kind of returns can you expect? My
+[  41.5s] favorite part, how do you mitigate your taxes like the ultra elite do? So many of us just accept
+[  46.0s] paying a 20, 30, 40% tax rate when the politicians and billionaires are paying like 0%. You
+[  51.4s] can mitigate your taxes. Whether you're self-employed or W2, you can mitigate your taxes
+[  56.0s] through proper investing and strategy. You have just not been taught how. Imagine if I could save
+[  60.3s] you 30, 40, $50,000 in taxes instead of giving it to the IRS. You could invest it and actually
+[  65.1s] make money and grow your net worth. This isn't for beginners. If you have capital,
+[  68.9s] if you're investor, if you're a high wager, a business owner, whatever it is and you feel
+[  72.3s] like you can grow your money faster or you can mitigate your taxes, click the link down
+[  76.2s] below. Register for the event on July 19th. We will be there and I can't wait to see you.

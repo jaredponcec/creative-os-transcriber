@@ -1,0 +1,13 @@
+ad_name: 8.27 | Chicago Vid 4
+video_id: 1032987336397449
+status: ACTIVE
+duration_seconds: 32.7
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] These are my three favorite tax strategies for 2026. Workforce housing, heavy equipment,
+[   5.4s] and data centers. The great news is all three of these work for W-2, 1099, and business owners,
+[  10.8s] and I want to deep dive all of them with you on a workshop. It's going to be two hours long
+[  14.2s] where we deep dive tax mitigation strategies for the everyday person so they can save more money,
+[  18.5s] keep it in their pocket, invest it, and create generational wealth. If that's what you
+[  21.9s] want, click the link down below, reserve your seat, and I'd love to see you there.

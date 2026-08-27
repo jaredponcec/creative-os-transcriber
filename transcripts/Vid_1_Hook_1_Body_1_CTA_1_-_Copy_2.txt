@@ -1,0 +1,25 @@
+ad_name: Vid 1 | Hook 1 Body 1 CTA 1 - Copy 2
+video_id: 1682421379816448
+status: CAMPAIGN_PAUSED
+duration_seconds: 65.5
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Denver. If you are making good money but your net worth isn't where you think it should be,
+[   4.7s] this is for you. I went from being a broke college athlete to completely financial free before the
+[   9.4s] age of 30 and it wasn't because I made massive amounts of income or I had this massive business
+[  13.3s] that was really successful. It's because I was taught how wealth was actually created.
+[  17.5s] When I was playing basketball I was exposed to multi-multi-millionaires and billionaires
+[  21.2s] and it was extremely lucky in all honesty but they taught me how they build wealth.
+[  25.4s] We were taught a broken way of investing and that is exactly why I'm holding this
+[  28.6s] one-day event in Denver. We are going to deep dive into all this stuff. How do you invest?
+[  32.8s] Where do you invest? How do you get access to investment deals and venture capital,
+[  36.1s] private equity? How do you get that deal flow? And one of my favorite parts,
+[  38.7s] how do you play the tax game? My effective tax rate this year was under 2% which is
+[  42.9s] mind-blowing to say and I had no idea how to do that just a couple years ago.
+[  45.9s] So if you've got capital, if you're an investor, if you're looking just how to
+[  49.0s] make your money work harder than it currently is and you feel like your wheels are spinning,
+[  52.6s] click this link, watch the video on the next page and grab your ticket for May 24th.
+[  56.8s] We are keeping this extremely small. I want it to be intimate and small so we can all
+[  60.6s] actually have those interactions and move that needle forward. So make sure to grab
+[  63.7s] that ticket quick and we'll see you soon.

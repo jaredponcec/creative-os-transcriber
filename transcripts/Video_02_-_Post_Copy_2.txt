@@ -1,0 +1,27 @@
+ad_name: Video #02 - Post – Copy 2
+video_id: 1069414228193336
+status: ADSET_PAUSED
+duration_seconds: 71.4
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Interest rates are finally coming down. The inflation's been up forever. Interest rates have
+[   4.0s] been up forever, but now the stock market is showing a little bit of weakness. Interest rates
+[   7.4s] are coming down, and it could make sense to refinance. When you refinance your FHA loan,
+[  11.6s] you need to make sure you're working with someone that is not charging you more than
+[  14.7s] everyone else. Hear me out. On an FHA loan, it is very, very normal. In fact,
+[  18.2s] I would say 90% of lenders make more on an FHA loan than you do a conventional loan,
+[  22.6s] and that's unethical in my opinion. There is no reason you should be charged more than
+[  26.2s] the person right down the street that gets a conventional loan, but it's very normal
+[  29.5s] inside the industry and no one can explain why. Now you don't see these fees. These aren't
+[  33.3s] on your closing disclosures. They're nowhere to be seen. It's baked in on the back end,
+[  36.6s] and so you never get to see it, but what happens is when these fees are baked in higher on the
+[  40.5s] back end, it turns into a higher interest rate for you. That is why interest rates are different
+[  44.6s] from lender to lender, and that is why it is so important for you to work with someone
+[  48.5s] that makes the same on a VA loan, an FHA loan, a conventional loan, no matter who it is,
+[  52.0s] because it means lower rate and more money in your pocket. Click the link below and let's
+[  55.6s] see if it makes sense. It may not make sense to refinance, and I'm not going to push it
+[  58.8s] on you if it doesn't make sense, but if we can save you hundreds of dollars of interest,
+[  62.2s] thousands of dollars of interest, it costs very little out of your pocket, and you get to save
+[  65.8s] that money now, it's honestly no brainer with the interest rates coming down for you
+[  69.4s] to save money and make your life easier.

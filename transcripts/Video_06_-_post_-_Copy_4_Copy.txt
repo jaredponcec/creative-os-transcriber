@@ -1,0 +1,14 @@
+ad_name: Video #06 - post - Copy 4 – Copy
+video_id: 774377251234823
+status: DISAPPROVED
+duration_seconds: 26.1
+source_door: page-token
+transcribed: 2026-08-27
+---
+[   0.0s] Most people don't realize they're losing hundreds of thousands of dollars because
+[   2.7s] they're financial advisor, they're paying one to two percent management fees, they're not getting
+[   6.2s] optimal returns, they're stuck in a company 401k and if they would just take control of
+[  10.0s] their finances, actually figure out what's going on, they could be so much more set up for
+[  14.4s] retirement. Click the link below, I'll teach you the five accounts you should have, how to
+[  17.9s] invest your money, how to optimize your turn and set yourself up for retirement so you're
+[  21.4s] not given money away to everyone else and you actually secure it for yourself in your retirement.
