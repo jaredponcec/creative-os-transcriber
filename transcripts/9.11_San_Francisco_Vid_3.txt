@@ -1,0 +1,25 @@
+ad_name: 9.11 | San Francisco Vid 3
+video_id: 1007373395691006
+status: ACTIVE
+duration_seconds: 76.0
+source_door: page-token
+transcribed: 2026-09-15
+---
+[   0.0s] Bay Area, if you are making six figures or more but your wealth is not growing the way you think
+[   4.3s] it should, this is for you. A few years ago I was sitting across a table from someone who had made
+[   8.2s] a hundred million dollars and I asked him a question. What do you think separates the wealthy
+[  12.4s] from those that are not? And his answer was really simple. The wealthy get in the rooms that
+[  17.1s] matter early. That has always stuck with me and that's exactly why I'm inviting you to
+[  21.5s] one of those rooms today. I am hosting a one-day wealth event in your city where we are
+[  26.5s] going to go over everything that it takes to grow real wealth. How do you mitigate your taxes? Get your
+[  31.5s] effective tax rate down to 5 or 10 percent. Then use that money you saved to go get access to
+[  36.1s] better investments. Stuff like venture capital, private equity or large-scale real estate.
+[  39.6s] We are going to keep this small. I don't want more than 100 or 150 people in the room because
+[  43.8s] I want the right people in the room so we can have a real conversation about what it means
+[  47.9s] to grow generational wealth. Far too many people just accept paying taxes thinking they have
+[  53.0s] to pay 25, 35 or even 45 percent taxes and that is not true. Imagine if I could say you have your
+[  58.5s] tax bill. How much more would you have to invest? Live your life. Do things that you wanted to. You
+[  62.5s] already made the money. Just keep more of that money that you've already made. This is not for
+[  66.2s] beginners. This is for people that are earning good money but are ready to grow their wealth
+[  70.5s] at an even faster clip. If that's you, click the link down below, register for your spot and I
+[  74.6s] would love to see you there.
