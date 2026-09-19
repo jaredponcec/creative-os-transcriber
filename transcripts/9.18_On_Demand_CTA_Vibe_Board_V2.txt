@@ -1,0 +1,10 @@
+ad_name: 9.18 | On Demand CTA Vibe Board V2
+video_id: 1502720665208911
+status: ACTIVE
+duration_seconds: 11.3
+source_door: page-token
+transcribed: 2026-09-19
+---
+[   0.0s] Have you heard of tax mitigation? Proper tax mitigation can lower your tax bill by 20,
+[   3.9s] 30, 40 percent. You just need to be taught how. I hold a workshop where I deep dive it, okay?
+[   8.0s] If you want to learn tax mitigation, click the link down below and I'd love to see you there.
